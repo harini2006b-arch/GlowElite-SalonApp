@@ -1,5 +1,6 @@
-GlowElite – Bangalore Luxury Beauty Intelligence
-Overview
+## GlowElite – Bangalore Luxury Beauty Intelligence
+
+## Overview
 
 GlowElite is an AI-powered luxury beauty salon marketplace designed exclusively for Bangalore, one of India's fastest-growing metropolitan cities and beauty service hubs.
 
