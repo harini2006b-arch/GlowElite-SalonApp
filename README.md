@@ -1,4 +1,4 @@
-## GlowElite – Bangalore Luxury Beauty Intelligence
+## GlowElite – Bangalore's Luxury Beauty Intelligence
 
 ## Overview
 
