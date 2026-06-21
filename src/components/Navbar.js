@@ -14,7 +14,6 @@ return (
 
     <div className="container">
 
-      {/* Hamburger Menu */}
       <button
         className="menu-btn"
         onClick={() => setIsOpen(true)}
@@ -22,7 +21,6 @@ return (
         ☰
       </button>
 
-      {/* Logo */}
 <Link
   className="navbar-brand logo"
   to="/"

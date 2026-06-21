@@ -49,7 +49,6 @@ function Footer() {
 <a href="https://x.com" target="_blank" rel="noreferrer">
   X
 </a>
-
 </div>
           </div>
 
