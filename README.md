@@ -182,7 +182,7 @@ GlowElite-SalonApp/
 
 **SuperXgen AI Startup Buildathon 2026**
 
-A 48-hour startup innovation challenge focused on building real-world AI-powered products using modern development technologies.
+A startup innovation challenge focused on building real-world AI-powered products using modern development technologies.
 
 Theme: City-Based AI Marketplace Platform
 
