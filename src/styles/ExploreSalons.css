@@ -1,0 +1,30 @@
+.explore-title{
+
+    text-align:center;
+
+    color:#fff;
+
+    font-size:4rem;
+
+    font-weight:700;
+
+    margin-bottom:10px;
+
+    text-shadow:
+    0 0 25px rgba(212,175,55,.35);
+}
+
+@keyframes fadeDown{
+
+    from{
+        opacity:0;
+        transform:
+        translateY(-40px);
+    }
+
+    to{
+        opacity:1;
+        transform:
+        translateY(0);
+    }
+}

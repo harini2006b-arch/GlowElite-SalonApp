@@ -1,0 +1,290 @@
+{
+  "offers": [
+
+    {
+      "date": "2026-06-19",
+      "gender": "women",
+      "service": "Hair Spa",
+      "actualPrice": 2999,
+      "offerPrice": 1999
+    },
+
+    {
+      "date": "2026-06-19",
+      "gender": "men",
+      "service": "Beard Styling",
+      "actualPrice": 999,
+      "offerPrice": 699
+    },
+
+    {
+      "date": "2026-06-20",
+      "gender": "women",
+      "service": "Facial",
+      "actualPrice": 2499,
+      "offerPrice": 1799
+    },
+
+    {
+      "date": "2026-06-20",
+      "gender": "men",
+      "service": "Hair Cut",
+      "actualPrice": 1200,
+      "offerPrice": 799
+    },
+
+    {
+      "date": "2026-06-21",
+      "gender": "women",
+      "service": "Hair Coloring",
+      "actualPrice": 4999,
+      "offerPrice": 3499
+    },
+
+    {
+      "date": "2026-06-21",
+      "gender": "men",
+      "service": "Hair Spa",
+      "actualPrice": 1999,
+      "offerPrice": 1499
+    },
+
+    {
+      "date": "2026-06-22",
+      "gender": "women",
+      "service": "Manicure",
+      "actualPrice": 1999,
+      "offerPrice": 1299
+    },
+
+    {
+      "date": "2026-06-22",
+      "gender": "men",
+      "service": "Luxury Shave",
+      "actualPrice": 1499,
+      "offerPrice": 999
+    },
+
+    {
+      "date": "2026-06-23",
+      "gender": "women",
+      "service": "Bridal Makeup",
+      "actualPrice": 8999,
+      "offerPrice": 6999
+    },
+
+    {
+      "date": "2026-06-23",
+      "gender": "men",
+      "service": "Premium Grooming",
+      "actualPrice": 2499,
+      "offerPrice": 1799
+    },
+
+    {
+      "date": "2026-06-24",
+      "gender": "women",
+      "service": "Keratin Treatment",
+      "actualPrice": 6999,
+      "offerPrice": 5499
+    },
+
+    {
+      "date": "2026-06-24",
+      "gender": "men",
+      "service": "Hair Straightening",
+      "actualPrice": 3999,
+      "offerPrice": 2999
+    },
+
+    {
+      "date": "2026-06-25",
+      "gender": "women",
+      "service": "Pedicure",
+      "actualPrice": 1799,
+      "offerPrice": 1199
+    },
+
+    {
+      "date": "2026-06-25",
+      "gender": "men",
+      "service": "Facial",
+      "actualPrice": 1999,
+      "offerPrice": 1499
+    },
+
+    {
+      "date": "2026-06-26",
+      "gender": "women",
+      "service": "Luxury Hair Spa",
+      "actualPrice": 3499,
+      "offerPrice": 2499
+    },
+
+    {
+      "date": "2026-06-26",
+      "gender": "men",
+      "service": "Head Massage",
+      "actualPrice": 999,
+      "offerPrice": 699
+    },
+
+    {
+      "date": "2026-06-27",
+      "gender": "women",
+      "service": "Skin Glow Package",
+      "actualPrice": 5999,
+      "offerPrice": 4499
+    },
+
+    {
+      "date": "2026-06-27",
+      "gender": "men",
+      "service": "Premium Hair Cut",
+      "actualPrice": 1499,
+      "offerPrice": 999
+    },
+
+    {
+  "date": "2026-06-28",
+  "gender": "women",
+  "service": "Gold Facial",
+  "actualPrice": 3999,
+  "offerPrice": 2799
+},
+{
+  "date": "2026-06-28",
+  "gender": "men",
+  "service": "Luxury Beard Spa",
+  "actualPrice": 1499,
+  "offerPrice": 999
+},
+{
+  "date": "2026-06-29",
+  "gender": "women",
+  "service": "Hair Smoothening",
+  "actualPrice": 7999,
+  "offerPrice": 5999
+},
+{
+  "date": "2026-06-29",
+  "gender": "men",
+  "service": "Scalp Detox Treatment",
+  "actualPrice": 2499,
+  "offerPrice": 1799
+},
+{
+  "date": "2026-06-30",
+  "gender": "women",
+  "service": "Luxury Pedicure",
+  "actualPrice": 2499,
+  "offerPrice": 1699
+},
+{
+  "date": "2026-06-30",
+  "gender": "men",
+  "service": "Executive Grooming Package",
+  "actualPrice": 2999,
+  "offerPrice": 2199
+},
+{
+  "date": "2026-07-01",
+  "gender": "women",
+  "service": "Diamond Glow Facial",
+  "actualPrice": 5499,
+  "offerPrice": 3999
+},
+{
+  "date": "2026-07-01",
+  "gender": "men",
+  "service": "Premium Hair Styling",
+  "actualPrice": 1799,
+  "offerPrice": 1299
+},
+{
+  "date": "2026-07-02",
+  "gender": "women",
+  "service": "Bridal Skin Care Package",
+  "actualPrice": 9999,
+  "offerPrice": 7499
+},
+{
+  "date": "2026-07-02",
+  "gender": "men",
+  "service": "Luxury Face Cleanup",
+  "actualPrice": 1999,
+  "offerPrice": 1399
+},
+{
+  "date": "2026-07-03",
+  "gender": "women",
+  "service": "Hair Rebonding",
+  "actualPrice": 8999,
+  "offerPrice": 6499
+},
+{
+  "date": "2026-07-03",
+  "gender": "men",
+  "service": "Royal Shaving Experience",
+  "actualPrice": 1299,
+  "offerPrice": 899
+},
+{
+  "date": "2026-07-04",
+  "gender": "women",
+  "service": "Luxury Makeup Session",
+  "actualPrice": 6999,
+  "offerPrice": 4999
+},
+{
+  "date": "2026-07-04",
+  "gender": "men",
+  "service": "Hair Fall Control Therapy",
+  "actualPrice": 3499,
+  "offerPrice": 2499
+},
+{
+  "date": "2026-07-05",
+  "gender": "women",
+  "service": "Fruit Facial",
+  "actualPrice": 2999,
+  "offerPrice": 1999
+},
+{
+  "date": "2026-07-05",
+  "gender": "men",
+  "service": "Luxury Hair Wash & Style",
+  "actualPrice": 1499,
+  "offerPrice": 999
+},
+{
+  "date": "2026-07-06",
+  "gender": "women",
+  "service": "Spa Manicure Combo",
+  "actualPrice": 2799,
+  "offerPrice": 1899
+},
+{
+  "date": "2026-07-06",
+  "gender": "men",
+  "service": "Premium Facial Therapy",
+  "actualPrice": 2499,
+  "offerPrice": 1799
+},
+{
+  "date": "2026-07-07",
+  "gender": "women",
+  "service": "Keratin Hair Spa",
+  "actualPrice": 4499,
+  "offerPrice": 3299
+},
+{
+  "date": "2026-07-07",
+  "gender": "men",
+  "service": "Luxury Head Massage",
+  "actualPrice": 1199,
+  "offerPrice": 799
+}
+
+  ]
+}

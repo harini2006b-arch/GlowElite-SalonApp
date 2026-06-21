@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+
+.section-title{
+    font-size:3rem;
+    font-weight:700;
+    text-align:center;
+    margin-bottom:15px;
+    color:white;
+}
+
+.section-subtitle{
+    text-align:center;
+    color:#a1a1aa;
+    margin-bottom:60px;
+    font-size:1.1rem;
+}

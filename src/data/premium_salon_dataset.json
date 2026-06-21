@@ -1,0 +1,2906 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "name": "Hair Cut",
+      "category": "Hair",
+      "price": 1042,
+      "duration": "60 mins",
+      "rating": 4.6,
+      "bookings": 727,
+      "image": "https://picsum.photos/seed/salon1/600/400"
+    },
+    {
+      "id": 2,
+      "name": "Hair Wash",
+      "category": "Hair",
+      "price": 2626,
+      "duration": "60 mins",
+      "rating": 4.5,
+      "bookings": 53,
+      "image": "https://picsum.photos/seed/salon2/600/400"
+    },
+    {
+      "id": 3,
+      "name": "Hair Spa",
+      "category": "Men Grooming",
+      "price": 2091,
+      "duration": "60 mins",
+      "rating": 4.4,
+      "bookings": 481,
+      "image": "https://picsum.photos/seed/salon3/600/400"
+    },
+    {
+      "id": 4,
+      "name": "Hair Coloring",
+      "category": "Hair",
+      "price": 4541,
+      "duration": "60 mins",
+      "rating": 4.4,
+      "bookings": 211,
+      "image": "https://picsum.photos/seed/salon4/600/400"
+    },
+    {
+      "id": 5,
+      "name": "Hair Straightening",
+      "category": "Men Grooming",
+      "price": 3656,
+      "duration": "30 mins",
+      "rating": 4.4,
+      "bookings": 1028,
+      "image": "https://picsum.photos/seed/salon5/600/400"
+    },
+    {
+      "id": 6,
+      "name": "Keratin Treatment",
+      "category": "Hair",
+      "price": 4781,
+      "duration": "90 mins",
+      "rating": 4.4,
+      "bookings": 1445,
+      "image": "https://picsum.photos/seed/salon6/600/400"
+    },
+    {
+      "id": 7,
+      "name": "Facial",
+      "category": "Skin",
+      "price": 1451,
+      "duration": "45 mins",
+      "rating": 4.3,
+      "bookings": 1445,
+      "image": "https://picsum.photos/seed/salon7/600/400"
+    },
+    {
+      "id": 8,
+      "name": "Cleanup",
+      "category": "Makeup",
+      "price": 4131,
+      "duration": "30 mins",
+      "rating": 4.6,
+      "bookings": 1291,
+      "image": "https://picsum.photos/seed/salon8/600/400"
+    },
+    {
+      "id": 9,
+      "name": "Detan Treatment",
+      "category": "Makeup",
+      "price": 3556,
+      "duration": "120 mins",
+      "rating": 4.2,
+      "bookings": 602,
+      "image": "https://picsum.photos/seed/salon9/600/400"
+    },
+    {
+      "id": 10,
+      "name": "Manicure",
+      "category": "Makeup",
+      "price": 2344,
+      "duration": "45 mins",
+      "rating": 4.6,
+      "bookings": 1334,
+      "image": "https://picsum.photos/seed/salon10/600/400"
+    },
+    {
+      "id": 11,
+      "name": "Pedicure",
+      "category": "Skin",
+      "price": 4031,
+      "duration": "60 mins",
+      "rating": 4.9,
+      "bookings": 177,
+      "image": "https://picsum.photos/seed/salon11/600/400"
+    },
+    {
+      "id": 12,
+      "name": "Nail Art",
+      "category": "Men Grooming",
+      "price": 3057,
+      "duration": "45 mins",
+      "rating": 4.4,
+      "bookings": 236,
+      "image": "https://picsum.photos/seed/salon12/600/400"
+    },
+    {
+      "id": 13,
+      "name": "Bridal Makeup",
+      "category": "Hair",
+      "price": 3362,
+      "duration": "90 mins",
+      "rating": 4.2,
+      "bookings": 1418,
+      "image": "https://picsum.photos/seed/salon13/600/400"
+    },
+    {
+      "id": 14,
+      "name": "Party Makeup",
+      "category": "Men Grooming",
+      "price": 1520,
+      "duration": "60 mins",
+      "rating": 5.0,
+      "bookings": 116,
+      "image": "https://picsum.photos/seed/salon14/600/400"
+    },
+    {
+      "id": 15,
+      "name": "Threading",
+      "category": "Beauty",
+      "price": 2912,
+      "duration": "120 mins",
+      "rating": 4.9,
+      "bookings": 843,
+      "image": "https://picsum.photos/seed/salon15/600/400"
+    },
+    {
+      "id": 16,
+      "name": "Waxing",
+      "category": "Makeup",
+      "price": 2333,
+      "duration": "120 mins",
+      "rating": 4.9,
+      "bookings": 1296,
+      "image": "https://picsum.photos/seed/salon16/600/400"
+    },
+    {
+      "id": 17,
+      "name": "Beard Styling",
+      "category": "Nails",
+      "price": 3205,
+      "duration": "120 mins",
+      "rating": 4.8,
+      "bookings": 944,
+      "image": "https://picsum.photos/seed/salon17/600/400"
+    },
+    {
+      "id": 18,
+      "name": "Head Massage",
+      "category": "Skin",
+      "price": 2982,
+      "duration": "90 mins",
+      "rating": 4.8,
+      "bookings": 120,
+      "image": "https://picsum.photos/seed/salon18/600/400"
+    },
+    {
+      "id": 19,
+      "name": "Body Massage",
+      "category": "Men Grooming",
+      "price": 2879,
+      "duration": "120 mins",
+      "rating": 4.8,
+      "bookings": 554,
+      "image": "https://picsum.photos/seed/salon19/600/400"
+    },
+    {
+      "id": 20,
+      "name": "Skin Polishing",
+      "category": "Men Grooming",
+      "price": 2118,
+      "duration": "60 mins",
+      "rating": 4.4,
+      "bookings": 733,
+      "image": "https://picsum.photos/seed/salon20/600/400"
+    }
+  ],
+  "staff": [
+    {
+      "id": 1,
+      "name": "Stylist 1",
+      "experience": 1,
+      "specialization": "Party Makeup",
+      "rating": 4.8,
+      "availability": "On Leave",
+      "image": "https://randomuser.me/api/portraits/men/1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Stylist 2",
+      "experience": 1,
+      "specialization": "Skin Polishing",
+      "rating": 4.4,
+      "availability": "Busy",
+      "image": "https://randomuser.me/api/portraits/women/2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Stylist 3",
+      "experience": 10,
+      "specialization": "Head Massage",
+      "rating": 4.9,
+      "availability": "Busy",
+      "image": "https://randomuser.me/api/portraits/men/3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Stylist 4",
+      "experience": 11,
+      "specialization": "Facial",
+      "rating": 4.3,
+      "availability": "Busy",
+      "image": "https://randomuser.me/api/portraits/women/4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Stylist 5",
+      "experience": 7,
+      "specialization": "Waxing",
+      "rating": 4.5,
+      "availability": "On Leave",
+      "image": "https://randomuser.me/api/portraits/men/5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Stylist 6",
+      "experience": 2,
+      "specialization": "Facial",
+      "rating": 4.1,
+      "availability": "On Leave",
+      "image": "https://randomuser.me/api/portraits/women/6.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Stylist 7",
+      "experience": 7,
+      "specialization": "Body Massage",
+      "rating": 4.8,
+      "availability": "Available",
+      "image": "https://randomuser.me/api/portraits/men/7.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Stylist 8",
+      "experience": 4,
+      "specialization": "Skin Polishing",
+      "rating": 4.1,
+      "availability": "On Leave",
+      "image": "https://randomuser.me/api/portraits/women/8.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Stylist 9",
+      "experience": 4,
+      "specialization": "Bridal Makeup",
+      "rating": 4.9,
+      "availability": "Available",
+      "image": "https://randomuser.me/api/portraits/men/9.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Stylist 10",
+      "experience": 12,
+      "specialization": "Cleanup",
+      "rating": 4.7,
+      "availability": "Busy",
+      "image": "https://randomuser.me/api/portraits/women/10.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Stylist 11",
+      "experience": 8,
+      "specialization": "Head Massage",
+      "rating": 4.8,
+      "availability": "Available",
+      "image": "https://randomuser.me/api/portraits/men/11.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Stylist 12",
+      "experience": 4,
+      "specialization": "Facial",
+      "rating": 4.4,
+      "availability": "On Leave",
+      "image": "https://randomuser.me/api/portraits/women/12.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Stylist 13",
+      "experience": 6,
+      "specialization": "Head Massage",
+      "rating": 4.7,
+      "availability": "On Leave",
+      "image": "https://randomuser.me/api/portraits/men/13.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Stylist 14",
+      "experience": 8,
+      "specialization": "Hair Straightening",
+      "rating": 4.6,
+      "availability": "Available",
+      "image": "https://randomuser.me/api/portraits/women/14.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Stylist 15",
+      "experience": 2,
+      "specialization": "Facial",
+      "rating": 4.4,
+      "availability": "On Leave",
+      "image": "https://randomuser.me/api/portraits/men/15.jpg"
+    }
+  ],
+  "customers": [
+    {
+      "id": 1,
+      "name": "Customer 1",
+      "membership": "Platinum",
+      "loyaltyPoints": 1809,
+      "totalVisits": 40,
+      "avatar": "https://randomuser.me/api/portraits/men/21.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Customer 2",
+      "membership": "Platinum",
+      "loyaltyPoints": 2163,
+      "totalVisits": 17,
+      "avatar": "https://randomuser.me/api/portraits/women/22.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Customer 3",
+      "membership": "Silver",
+      "loyaltyPoints": 1782,
+      "totalVisits": 38,
+      "avatar": "https://randomuser.me/api/portraits/men/23.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Customer 4",
+      "membership": "Platinum",
+      "loyaltyPoints": 3982,
+      "totalVisits": 9,
+      "avatar": "https://randomuser.me/api/portraits/women/24.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Customer 5",
+      "membership": "Gold",
+      "loyaltyPoints": 3349,
+      "totalVisits": 13,
+      "avatar": "https://randomuser.me/api/portraits/men/25.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Customer 6",
+      "membership": "Silver",
+      "loyaltyPoints": 1657,
+      "totalVisits": 5,
+      "avatar": "https://randomuser.me/api/portraits/women/26.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Customer 7",
+      "membership": "Platinum",
+      "loyaltyPoints": 1414,
+      "totalVisits": 38,
+      "avatar": "https://randomuser.me/api/portraits/men/27.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Customer 8",
+      "membership": "Silver",
+      "loyaltyPoints": 913,
+      "totalVisits": 1,
+      "avatar": "https://randomuser.me/api/portraits/women/28.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Customer 9",
+      "membership": "Gold",
+      "loyaltyPoints": 4882,
+      "totalVisits": 1,
+      "avatar": "https://randomuser.me/api/portraits/men/29.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Customer 10",
+      "membership": "Platinum",
+      "loyaltyPoints": 268,
+      "totalVisits": 20,
+      "avatar": "https://randomuser.me/api/portraits/women/30.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Customer 11",
+      "membership": "Silver",
+      "loyaltyPoints": 130,
+      "totalVisits": 5,
+      "avatar": "https://randomuser.me/api/portraits/men/31.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Customer 12",
+      "membership": "Gold",
+      "loyaltyPoints": 3772,
+      "totalVisits": 40,
+      "avatar": "https://randomuser.me/api/portraits/women/32.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Customer 13",
+      "membership": "Platinum",
+      "loyaltyPoints": 355,
+      "totalVisits": 20,
+      "avatar": "https://randomuser.me/api/portraits/men/33.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Customer 14",
+      "membership": "Silver",
+      "loyaltyPoints": 227,
+      "totalVisits": 24,
+      "avatar": "https://randomuser.me/api/portraits/women/34.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Customer 15",
+      "membership": "Gold",
+      "loyaltyPoints": 2131,
+      "totalVisits": 10,
+      "avatar": "https://randomuser.me/api/portraits/men/35.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Customer 16",
+      "membership": "Platinum",
+      "loyaltyPoints": 1814,
+      "totalVisits": 3,
+      "avatar": "https://randomuser.me/api/portraits/women/36.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Customer 17",
+      "membership": "Platinum",
+      "loyaltyPoints": 2167,
+      "totalVisits": 48,
+      "avatar": "https://randomuser.me/api/portraits/men/37.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Customer 18",
+      "membership": "Gold",
+      "loyaltyPoints": 2086,
+      "totalVisits": 23,
+      "avatar": "https://randomuser.me/api/portraits/women/38.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Customer 19",
+      "membership": "Platinum",
+      "loyaltyPoints": 4006,
+      "totalVisits": 43,
+      "avatar": "https://randomuser.me/api/portraits/men/39.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Customer 20",
+      "membership": "Gold",
+      "loyaltyPoints": 1517,
+      "totalVisits": 13,
+      "avatar": "https://randomuser.me/api/portraits/women/40.jpg"
+    },
+    {
+      "id": 21,
+      "name": "Customer 21",
+      "membership": "Platinum",
+      "loyaltyPoints": 2149,
+      "totalVisits": 17,
+      "avatar": "https://randomuser.me/api/portraits/men/41.jpg"
+    },
+    {
+      "id": 22,
+      "name": "Customer 22",
+      "membership": "Silver",
+      "loyaltyPoints": 3590,
+      "totalVisits": 11,
+      "avatar": "https://randomuser.me/api/portraits/women/42.jpg"
+    },
+    {
+      "id": 23,
+      "name": "Customer 23",
+      "membership": "Platinum",
+      "loyaltyPoints": 3828,
+      "totalVisits": 29,
+      "avatar": "https://randomuser.me/api/portraits/men/43.jpg"
+    },
+    {
+      "id": 24,
+      "name": "Customer 24",
+      "membership": "Silver",
+      "loyaltyPoints": 1095,
+      "totalVisits": 48,
+      "avatar": "https://randomuser.me/api/portraits/women/44.jpg"
+    },
+    {
+      "id": 25,
+      "name": "Customer 25",
+      "membership": "Gold",
+      "loyaltyPoints": 370,
+      "totalVisits": 49,
+      "avatar": "https://randomuser.me/api/portraits/men/45.jpg"
+    },
+    {
+      "id": 26,
+      "name": "Customer 26",
+      "membership": "Silver",
+      "loyaltyPoints": 992,
+      "totalVisits": 43,
+      "avatar": "https://randomuser.me/api/portraits/women/46.jpg"
+    },
+    {
+      "id": 27,
+      "name": "Customer 27",
+      "membership": "Platinum",
+      "loyaltyPoints": 2638,
+      "totalVisits": 50,
+      "avatar": "https://randomuser.me/api/portraits/men/47.jpg"
+    },
+    {
+      "id": 28,
+      "name": "Customer 28",
+      "membership": "Gold",
+      "loyaltyPoints": 1999,
+      "totalVisits": 2,
+      "avatar": "https://randomuser.me/api/portraits/women/48.jpg"
+    },
+    {
+      "id": 29,
+      "name": "Customer 29",
+      "membership": "Platinum",
+      "loyaltyPoints": 4078,
+      "totalVisits": 28,
+      "avatar": "https://randomuser.me/api/portraits/men/49.jpg"
+    },
+    {
+      "id": 30,
+      "name": "Customer 30",
+      "membership": "Platinum",
+      "loyaltyPoints": 1464,
+      "totalVisits": 24,
+      "avatar": "https://randomuser.me/api/portraits/women/50.jpg"
+    },
+    {
+      "id": 31,
+      "name": "Customer 31",
+      "membership": "Gold",
+      "loyaltyPoints": 4645,
+      "totalVisits": 44,
+      "avatar": "https://randomuser.me/api/portraits/men/51.jpg"
+    },
+    {
+      "id": 32,
+      "name": "Customer 32",
+      "membership": "Silver",
+      "loyaltyPoints": 314,
+      "totalVisits": 12,
+      "avatar": "https://randomuser.me/api/portraits/women/52.jpg"
+    },
+    {
+      "id": 33,
+      "name": "Customer 33",
+      "membership": "Platinum",
+      "loyaltyPoints": 3160,
+      "totalVisits": 27,
+      "avatar": "https://randomuser.me/api/portraits/men/53.jpg"
+    },
+    {
+      "id": 34,
+      "name": "Customer 34",
+      "membership": "Platinum",
+      "loyaltyPoints": 233,
+      "totalVisits": 29,
+      "avatar": "https://randomuser.me/api/portraits/women/54.jpg"
+    },
+    {
+      "id": 35,
+      "name": "Customer 35",
+      "membership": "Platinum",
+      "loyaltyPoints": 476,
+      "totalVisits": 15,
+      "avatar": "https://randomuser.me/api/portraits/men/55.jpg"
+    },
+    {
+      "id": 36,
+      "name": "Customer 36",
+      "membership": "Gold",
+      "loyaltyPoints": 3031,
+      "totalVisits": 24,
+      "avatar": "https://randomuser.me/api/portraits/women/56.jpg"
+    },
+    {
+      "id": 37,
+      "name": "Customer 37",
+      "membership": "Silver",
+      "loyaltyPoints": 1906,
+      "totalVisits": 28,
+      "avatar": "https://randomuser.me/api/portraits/men/57.jpg"
+    },
+    {
+      "id": 38,
+      "name": "Customer 38",
+      "membership": "Silver",
+      "loyaltyPoints": 4536,
+      "totalVisits": 40,
+      "avatar": "https://randomuser.me/api/portraits/women/58.jpg"
+    },
+    {
+      "id": 39,
+      "name": "Customer 39",
+      "membership": "Platinum",
+      "loyaltyPoints": 2087,
+      "totalVisits": 4,
+      "avatar": "https://randomuser.me/api/portraits/men/59.jpg"
+    },
+    {
+      "id": 40,
+      "name": "Customer 40",
+      "membership": "Silver",
+      "loyaltyPoints": 3505,
+      "totalVisits": 28,
+      "avatar": "https://randomuser.me/api/portraits/women/60.jpg"
+    }
+  ],
+  "appointments": [
+    {
+      "id": 1,
+      "customerId": 22,
+      "staffId": 4,
+      "serviceId": 18,
+      "status": "No Show",
+      "paymentStatus": "Refunded",
+      "paymentMethod": "Cash",
+      "bookingChannel": "Walk-in",
+      "reminderSent": false,
+      "amount": 4980
+    },
+    {
+      "id": 2,
+      "customerId": 38,
+      "staffId": 12,
+      "serviceId": 11,
+      "status": "No Show",
+      "paymentStatus": "Paid",
+      "paymentMethod": "Cash",
+      "bookingChannel": "Mobile App",
+      "reminderSent": false,
+      "amount": 4863
+    },
+    {
+      "id": 3,
+      "customerId": 14,
+      "staffId": 4,
+      "serviceId": 11,
+      "status": "Cancelled",
+      "paymentStatus": "Paid",
+      "paymentMethod": "Card",
+      "bookingChannel": "Walk-in",
+      "reminderSent": false,
+      "amount": 1669
+    },
+    {
+      "id": 4,
+      "customerId": 38,
+      "staffId": 13,
+      "serviceId": 16,
+      "status": "Booked",
+      "paymentStatus": "Refunded",
+      "paymentMethod": "Cash",
+      "bookingChannel": "Mobile App",
+      "reminderSent": true,
+      "amount": 1324
+    },
+    {
+      "id": 5,
+      "customerId": 40,
+      "staffId": 2,
+      "serviceId": 12,
+      "status": "Cancelled",
+      "paymentStatus": "Pending",
+      "paymentMethod": "UPI",
+      "bookingChannel": "Website",
+      "reminderSent": false,
+      "amount": 1232
+    },
+    {
+      "id": 6,
+      "customerId": 39,
+      "staffId": 8,
+      "serviceId": 4,
+      "status": "Completed",
+      "paymentStatus": "Refunded",
+      "paymentMethod": "Cash",
+      "bookingChannel": "Website",
+      "reminderSent": false,
+      "amount": 3717
+    },
+    {
+      "id": 7,
+      "customerId": 16,
+      "staffId": 10,
+      "serviceId": 16,
+      "status": "No Show",
+      "paymentStatus": "Paid",
+      "paymentMethod": "Cash",
+      "bookingChannel": "Website",
+      "reminderSent": true,
+      "amount": 1239
+    },
+    {
+      "id": 8,
+      "customerId": 38,
+      "staffId": 6,
+      "serviceId": 17,
+      "status": "No Show",
+      "paymentStatus": "Paid",
+      "paymentMethod": "Card",
+      "bookingChannel": "Website",
+      "reminderSent": false,
+      "amount": 363
+    },
+    {
+      "id": 9,
+      "customerId": 24,
+      "staffId": 12,
+      "serviceId": 7,
+      "status": "Completed",
+      "paymentStatus": "Refunded",
+      "paymentMethod": "Card",
+      "bookingChannel": "Website",
+      "reminderSent": false,
+      "amount": 4549
+    },
+    {
+      "id": 10,
+      "customerId": 3,
+      "staffId": 1,
+      "serviceId": 11,
+      "status": "Cancelled",
+      "paymentStatus": "Refunded",
+      "paymentMethod": "UPI",
+      "bookingChannel": "Mobile App",
+      "reminderSent": false,
+      "amount": 1097
+    },
+    {
+      "id": 11,
+      "customerId": 5,
+      "staffId": 6,
+      "serviceId": 14,
+      "status": "No Show",
+      "paymentStatus": "Pending",
+      "paymentMethod": "UPI",
+      "bookingChannel": "Mobile App",
+      "reminderSent": true,
+      "amount": 3319
+    },
+    {
+      "id": 12,
+      "customerId": 28,
+      "staffId": 10,
+      "serviceId": 4,
+      "status": "No Show",
+      "paymentStatus": "Paid",
+      "paymentMethod": "UPI",
+      "bookingChannel": "Walk-in",
+      "reminderSent": false,
+      "amount": 2074
+    },
+    {
+      "id": 13,
+      "customerId": 11,
+      "staffId": 6,
+      "serviceId": 4,
+      "status": "Completed",
+      "paymentStatus": "Pending",
+      "paymentMethod": "Cash",
+      "bookingChannel": "Phone",
+      "reminderSent": true,
+      "amount": 1205
+    },
+    {
+      "id": 14,
+      "customerId": 31,
+      "staffId": 9,
+      "serviceId": 9,
+      "status": "Completed",
+      "paymentStatus": "Refunded",
+      "paymentMethod": "Cash",
+      "bookingChannel": "Website",
+      "reminderSent": false,
+      "amount": 1698
+    },
+    {
+      "id": 15,
+      "customerId": 9,
+      "staffId": 1,
+      "serviceId": 9,
+      "status": "Completed",
+      "paymentStatus": "Paid",
+      "paymentMethod": "Cash",
+      "bookingChannel": "Phone",
+      "reminderSent": false,
+      "amount": 3538
+    },
+    {
+      "id": 16,
+      "customerId": 33,
+      "staffId": 1,
+      "serviceId": 8,
+      "status": "No Show",
+      "paymentStatus": "Pending",
+      "paymentMethod": "UPI",
+      "bookingChannel": "Mobile App",
+      "reminderSent": false,
+      "amount": 3209
+    },
+    {
+      "id": 17,
+      "customerId": 20,
+      "staffId": 10,
+      "serviceId": 7,
+      "status": "Cancelled",
+      "paymentStatus": "Paid",
+      "paymentMethod": "UPI",
+      "bookingChannel": "Website",
+      "reminderSent": false,
+      "amount": 3657
+    },
+    {
+      "id": 18,
+      "customerId": 8,
+      "staffId": 15,
+      "serviceId": 16,
+      "status": "Completed",
+      "paymentStatus": "Pending",
+      "paymentMethod": "Card",
+      "bookingChannel": "Phone",
+      "reminderSent": true,
+      "amount": 2376
+    },
+    {
+      "id": 19,
+      "customerId": 29,
+      "staffId": 4,
+      "serviceId": 3,
+      "status": "No Show",
+      "paymentStatus": "Pending",
+      "paymentMethod": "Cash",
+      "bookingChannel": "Mobile App",
+      "reminderSent": true,
+      "amount": 2448
+    },
+    {
+      "id": 20,
+      "customerId": 9,
+      "staffId": 8,
+      "serviceId": 10,
+      "status": "Cancelled",
+      "paymentStatus": "Refunded",
+      "paymentMethod": "Card",
+      "bookingChannel": "Mobile App",
+      "reminderSent": true,
+      "amount": 4164
+    },
+    {
+      "id": 21,
+      "customerId": 8,
+      "staffId": 5,
+      "serviceId": 4,
+      "status": "Completed",
+      "paymentStatus": "Paid",
+      "paymentMethod": "Cash",
+      "bookingChannel": "Walk-in",
+      "reminderSent": true,
+      "amount": 3075
+    },
+    {
+      "id": 22,
+      "customerId": 14,
+      "staffId": 15,
+      "serviceId": 14,
+      "status": "Booked",
+      "paymentStatus": "Paid",
+      "paymentMethod": "Cash",
+      "bookingChannel": "Walk-in",
+      "reminderSent": true,
+      "amount": 4091
+    },
+    {
+      "id": 23,
+      "customerId": 5,
+      "staffId": 9,
+      "serviceId": 7,
+      "status": "No Show",
+      "paymentStatus": "Refunded",
+      "paymentMethod": "Card",
+      "bookingChannel": "Phone",
+      "reminderSent": true,
+      "amount": 4802
+    },
+    {
+      "id": 24,
+      "customerId": 22,
+      "staffId": 11,
+      "serviceId": 7,
+      "status": "No Show",
+      "paymentStatus": "Refunded",
+      "paymentMethod": "Card",
+      "bookingChannel": "Walk-in",
+      "reminderSent": false,
+      "amount": 1993
+    },
+    {
+      "id": 25,
+      "customerId": 6,
+      "staffId": 4,
+      "serviceId": 19,
+      "status": "No Show",
+      "paymentStatus": "Paid",
+      "paymentMethod": "Card",
+      "bookingChannel": "Phone",
+      "reminderSent": true,
+      "amount": 2263
+    },
+    {
+      "id": 26,
+      "customerId": 12,
+      "staffId": 15,
+      "serviceId": 7,
+      "status": "Cancelled",
+      "paymentStatus": "Refunded",
+      "paymentMethod": "Card",
+      "bookingChannel": "Phone",
+      "reminderSent": true,
+      "amount": 3903
+    },
+    {
+      "id": 27,
+      "customerId": 32,
+      "staffId": 7,
+      "serviceId": 20,
+      "status": "No Show",
+      "paymentStatus": "Paid",
+      "paymentMethod": "Card",
+      "bookingChannel": "Walk-in",
+      "reminderSent": false,
+      "amount": 3608
+    },
+    {
+      "id": 28,
+      "customerId": 2,
+      "staffId": 5,
+      "serviceId": 2,
+      "status": "Completed",
+      "paymentStatus": "Pending",
+      "paymentMethod": "Card",
+      "bookingChannel": "Mobile App",
+      "reminderSent": false,
+      "amount": 3024
+    },
+    {
+      "id": 29,
+      "customerId": 32,
+      "staffId": 3,
+      "serviceId": 6,
+      "status": "Completed",
+      "paymentStatus": "Paid",
+      "paymentMethod": "Card",
+      "bookingChannel": "Phone",
+      "reminderSent": true,
+      "amount": 4412
+    },
+    {
+      "id": 30,
+      "customerId": 20,
+      "staffId": 12,
+      "serviceId": 6,
+      "status": "No Show",
+      "paymentStatus": "Pending",
+      "paymentMethod": "Cash",
+      "bookingChannel": "Website",
+      "reminderSent": true,
+      "amount": 1158
+    },
+    {
+      "id": 31,
+      "customerId": 7,
+      "staffId": 13,
+      "serviceId": 8,
+      "status": "No Show",
+      "paymentStatus": "Pending",
+      "paymentMethod": "Card",
+      "bookingChannel": "Phone",
+      "reminderSent": true,
+      "amount": 2602
+    },
+    {
+      "id": 32,
+      "customerId": 3,
+      "staffId": 15,
+      "serviceId": 8,
+      "status": "Completed",
+      "paymentStatus": "Paid",
+      "paymentMethod": "Cash",
+      "bookingChannel": "Walk-in",
+      "reminderSent": true,
+      "amount": 2539
+    },
+    {
+      "id": 33,
+      "customerId": 13,
+      "staffId": 14,
+      "serviceId": 6,
+      "status": "No Show",
+      "paymentStatus": "Refunded",
+      "paymentMethod": "UPI",
+      "bookingChannel": "Phone",
+      "reminderSent": false,
+      "amount": 4449
+    },
+    {
+      "id": 34,
+      "customerId": 30,
+      "staffId": 15,
+      "serviceId": 20,
+      "status": "No Show",
+      "paymentStatus": "Paid",
+      "paymentMethod": "UPI",
+      "bookingChannel": "Website",
+      "reminderSent": false,
+      "amount": 1967
+    },
+    {
+      "id": 35,
+      "customerId": 10,
+      "staffId": 8,
+      "serviceId": 20,
+      "status": "Cancelled",
+      "paymentStatus": "Paid",
+      "paymentMethod": "Cash",
+      "bookingChannel": "Walk-in",
+      "reminderSent": false,
+      "amount": 4158
+    },
+    {
+      "id": 36,
+      "customerId": 7,
+      "staffId": 14,
+      "serviceId": 10,
+      "status": "Completed",
+      "paymentStatus": "Pending",
+      "paymentMethod": "Cash",
+      "bookingChannel": "Website",
+      "reminderSent": true,
+      "amount": 3692
+    },
+    {
+      "id": 37,
+      "customerId": 39,
+      "staffId": 3,
+      "serviceId": 16,
+      "status": "Booked",
+      "paymentStatus": "Paid",
+      "paymentMethod": "UPI",
+      "bookingChannel": "Walk-in",
+      "reminderSent": true,
+      "amount": 2783
+    },
+    {
+      "id": 38,
+      "customerId": 37,
+      "staffId": 10,
+      "serviceId": 15,
+      "status": "No Show",
+      "paymentStatus": "Paid",
+      "paymentMethod": "Card",
+      "bookingChannel": "Phone",
+      "reminderSent": true,
+      "amount": 4655
+    },
+    {
+      "id": 39,
+      "customerId": 33,
+      "staffId": 3,
+      "serviceId": 11,
+      "status": "No Show",
+      "paymentStatus": "Paid",
+      "paymentMethod": "Card",
+      "bookingChannel": "Website",
+      "reminderSent": false,
+      "amount": 2393
+    },
+    {
+      "id": 40,
+      "customerId": 12,
+      "staffId": 2,
+      "serviceId": 11,
+      "status": "No Show",
+      "paymentStatus": "Paid",
+      "paymentMethod": "UPI",
+      "bookingChannel": "Website",
+      "reminderSent": false,
+      "amount": 2885
+    },
+    {
+      "id": 41,
+      "customerId": 20,
+      "staffId": 9,
+      "serviceId": 1,
+      "status": "Completed",
+      "paymentStatus": "Refunded",
+      "paymentMethod": "Card",
+      "bookingChannel": "Phone",
+      "reminderSent": false,
+      "amount": 521
+    },
+    {
+      "id": 42,
+      "customerId": 26,
+      "staffId": 14,
+      "serviceId": 13,
+      "status": "Completed",
+      "paymentStatus": "Refunded",
+      "paymentMethod": "Cash",
+      "bookingChannel": "Mobile App",
+      "reminderSent": true,
+      "amount": 3839
+    },
+    {
+      "id": 43,
+      "customerId": 18,
+      "staffId": 13,
+      "serviceId": 1,
+      "status": "Booked",
+      "paymentStatus": "Refunded",
+      "paymentMethod": "Card",
+      "bookingChannel": "Walk-in",
+      "reminderSent": true,
+      "amount": 4887
+    },
+    {
+      "id": 44,
+      "customerId": 25,
+      "staffId": 14,
+      "serviceId": 5,
+      "status": "Completed",
+      "paymentStatus": "Paid",
+      "paymentMethod": "Card",
+      "bookingChannel": "Mobile App",
+      "reminderSent": true,
+      "amount": 3491
+    },
+    {
+      "id": 45,
+      "customerId": 15,
+      "staffId": 6,
+      "serviceId": 16,
+      "status": "No Show",
+      "paymentStatus": "Pending",
+      "paymentMethod": "UPI",
+      "bookingChannel": "Walk-in",
+      "reminderSent": true,
+      "amount": 1242
+    },
+    {
+      "id": 46,
+      "customerId": 15,
+      "staffId": 9,
+      "serviceId": 13,
+      "status": "Cancelled",
+      "paymentStatus": "Paid",
+      "paymentMethod": "Cash",
+      "bookingChannel": "Walk-in",
+      "reminderSent": false,
+      "amount": 1405
+    },
+    {
+      "id": 47,
+      "customerId": 31,
+      "staffId": 13,
+      "serviceId": 1,
+      "status": "No Show",
+      "paymentStatus": "Pending",
+      "paymentMethod": "Cash",
+      "bookingChannel": "Mobile App",
+      "reminderSent": true,
+      "amount": 4888
+    },
+    {
+      "id": 48,
+      "customerId": 40,
+      "staffId": 1,
+      "serviceId": 10,
+      "status": "Completed",
+      "paymentStatus": "Paid",
+      "paymentMethod": "UPI",
+      "bookingChannel": "Website",
+      "reminderSent": true,
+      "amount": 4332
+    },
+    {
+      "id": 49,
+      "customerId": 15,
+      "staffId": 4,
+      "serviceId": 2,
+      "status": "Cancelled",
+      "paymentStatus": "Refunded",
+      "paymentMethod": "Cash",
+      "bookingChannel": "Mobile App",
+      "reminderSent": true,
+      "amount": 2619
+    },
+    {
+      "id": 50,
+      "customerId": 36,
+      "staffId": 13,
+      "serviceId": 17,
+      "status": "Completed",
+      "paymentStatus": "Paid",
+      "paymentMethod": "Cash",
+      "bookingChannel": "Mobile App",
+      "reminderSent": false,
+      "amount": 3047
+    },
+    {
+      "id": 51,
+      "customerId": 40,
+      "staffId": 6,
+      "serviceId": 12,
+      "status": "Booked",
+      "paymentStatus": "Refunded",
+      "paymentMethod": "Cash",
+      "bookingChannel": "Website",
+      "reminderSent": true,
+      "amount": 792
+    },
+    {
+      "id": 52,
+      "customerId": 1,
+      "staffId": 1,
+      "serviceId": 15,
+      "status": "Booked",
+      "paymentStatus": "Pending",
+      "paymentMethod": "Card",
+      "bookingChannel": "Website",
+      "reminderSent": true,
+      "amount": 4697
+    },
+    {
+      "id": 53,
+      "customerId": 34,
+      "staffId": 12,
+      "serviceId": 8,
+      "status": "Cancelled",
+      "paymentStatus": "Paid",
+      "paymentMethod": "Card",
+      "bookingChannel": "Website",
+      "reminderSent": true,
+      "amount": 2140
+    },
+    {
+      "id": 54,
+      "customerId": 39,
+      "staffId": 10,
+      "serviceId": 12,
+      "status": "Completed",
+      "paymentStatus": "Refunded",
+      "paymentMethod": "UPI",
+      "bookingChannel": "Website",
+      "reminderSent": false,
+      "amount": 1868
+    },
+    {
+      "id": 55,
+      "customerId": 9,
+      "staffId": 11,
+      "serviceId": 3,
+      "status": "Booked",
+      "paymentStatus": "Paid",
+      "paymentMethod": "Card",
+      "bookingChannel": "Phone",
+      "reminderSent": true,
+      "amount": 4960
+    },
+    {
+      "id": 56,
+      "customerId": 16,
+      "staffId": 10,
+      "serviceId": 13,
+      "status": "No Show",
+      "paymentStatus": "Paid",
+      "paymentMethod": "UPI",
+      "bookingChannel": "Walk-in",
+      "reminderSent": true,
+      "amount": 985
+    },
+    {
+      "id": 57,
+      "customerId": 28,
+      "staffId": 5,
+      "serviceId": 2,
+      "status": "Booked",
+      "paymentStatus": "Paid",
+      "paymentMethod": "Cash",
+      "bookingChannel": "Mobile App",
+      "reminderSent": true,
+      "amount": 996
+    },
+    {
+      "id": 58,
+      "customerId": 16,
+      "staffId": 12,
+      "serviceId": 19,
+      "status": "Completed",
+      "paymentStatus": "Paid",
+      "paymentMethod": "Card",
+      "bookingChannel": "Mobile App",
+      "reminderSent": false,
+      "amount": 3886
+    },
+    {
+      "id": 59,
+      "customerId": 5,
+      "staffId": 2,
+      "serviceId": 4,
+      "status": "Completed",
+      "paymentStatus": "Paid",
+      "paymentMethod": "Cash",
+      "bookingChannel": "Website",
+      "reminderSent": false,
+      "amount": 1452
+    },
+    {
+      "id": 60,
+      "customerId": 10,
+      "staffId": 13,
+      "serviceId": 16,
+      "status": "Cancelled",
+      "paymentStatus": "Pending",
+      "paymentMethod": "UPI",
+      "bookingChannel": "Walk-in",
+      "reminderSent": true,
+      "amount": 4611
+    },
+    {
+      "id": 61,
+      "customerId": 3,
+      "staffId": 12,
+      "serviceId": 20,
+      "status": "No Show",
+      "paymentStatus": "Paid",
+      "paymentMethod": "UPI",
+      "bookingChannel": "Walk-in",
+      "reminderSent": false,
+      "amount": 3980
+    },
+    {
+      "id": 62,
+      "customerId": 30,
+      "staffId": 14,
+      "serviceId": 4,
+      "status": "Cancelled",
+      "paymentStatus": "Paid",
+      "paymentMethod": "Cash",
+      "bookingChannel": "Mobile App",
+      "reminderSent": true,
+      "amount": 1880
+    },
+    {
+      "id": 63,
+      "customerId": 8,
+      "staffId": 10,
+      "serviceId": 6,
+      "status": "No Show",
+      "paymentStatus": "Pending",
+      "paymentMethod": "UPI",
+      "bookingChannel": "Phone",
+      "reminderSent": false,
+      "amount": 4577
+    },
+    {
+      "id": 64,
+      "customerId": 12,
+      "staffId": 15,
+      "serviceId": 10,
+      "status": "No Show",
+      "paymentStatus": "Pending",
+      "paymentMethod": "Cash",
+      "bookingChannel": "Website",
+      "reminderSent": false,
+      "amount": 2185
+    },
+    {
+      "id": 65,
+      "customerId": 2,
+      "staffId": 3,
+      "serviceId": 5,
+      "status": "Booked",
+      "paymentStatus": "Pending",
+      "paymentMethod": "Cash",
+      "bookingChannel": "Phone",
+      "reminderSent": false,
+      "amount": 2721
+    },
+    {
+      "id": 66,
+      "customerId": 23,
+      "staffId": 14,
+      "serviceId": 18,
+      "status": "Cancelled",
+      "paymentStatus": "Paid",
+      "paymentMethod": "UPI",
+      "bookingChannel": "Website",
+      "reminderSent": false,
+      "amount": 1755
+    },
+    {
+      "id": 67,
+      "customerId": 26,
+      "staffId": 1,
+      "serviceId": 9,
+      "status": "No Show",
+      "paymentStatus": "Refunded",
+      "paymentMethod": "UPI",
+      "bookingChannel": "Phone",
+      "reminderSent": true,
+      "amount": 4770
+    },
+    {
+      "id": 68,
+      "customerId": 21,
+      "staffId": 12,
+      "serviceId": 9,
+      "status": "Completed",
+      "paymentStatus": "Paid",
+      "paymentMethod": "UPI",
+      "bookingChannel": "Phone",
+      "reminderSent": false,
+      "amount": 436
+    },
+    {
+      "id": 69,
+      "customerId": 16,
+      "staffId": 13,
+      "serviceId": 5,
+      "status": "No Show",
+      "paymentStatus": "Pending",
+      "paymentMethod": "UPI",
+      "bookingChannel": "Walk-in",
+      "reminderSent": true,
+      "amount": 2318
+    },
+    {
+      "id": 70,
+      "customerId": 26,
+      "staffId": 7,
+      "serviceId": 8,
+      "status": "Cancelled",
+      "paymentStatus": "Paid",
+      "paymentMethod": "Cash",
+      "bookingChannel": "Phone",
+      "reminderSent": false,
+      "amount": 4624
+    },
+    {
+      "id": 71,
+      "customerId": 10,
+      "staffId": 15,
+      "serviceId": 3,
+      "status": "Completed",
+      "paymentStatus": "Refunded",
+      "paymentMethod": "Card",
+      "bookingChannel": "Walk-in",
+      "reminderSent": true,
+      "amount": 3051
+    },
+    {
+      "id": 72,
+      "customerId": 1,
+      "staffId": 13,
+      "serviceId": 12,
+      "status": "Completed",
+      "paymentStatus": "Paid",
+      "paymentMethod": "Cash",
+      "bookingChannel": "Website",
+      "reminderSent": false,
+      "amount": 4405
+    },
+    {
+      "id": 73,
+      "customerId": 29,
+      "staffId": 12,
+      "serviceId": 14,
+      "status": "Completed",
+      "paymentStatus": "Paid",
+      "paymentMethod": "UPI",
+      "bookingChannel": "Website",
+      "reminderSent": false,
+      "amount": 3712
+    },
+    {
+      "id": 74,
+      "customerId": 4,
+      "staffId": 5,
+      "serviceId": 4,
+      "status": "Completed",
+      "paymentStatus": "Refunded",
+      "paymentMethod": "Cash",
+      "bookingChannel": "Mobile App",
+      "reminderSent": false,
+      "amount": 4632
+    },
+    {
+      "id": 75,
+      "customerId": 40,
+      "staffId": 14,
+      "serviceId": 16,
+      "status": "Completed",
+      "paymentStatus": "Paid",
+      "paymentMethod": "Cash",
+      "bookingChannel": "Phone",
+      "reminderSent": true,
+      "amount": 3695
+    },
+    {
+      "id": 76,
+      "customerId": 35,
+      "staffId": 4,
+      "serviceId": 16,
+      "status": "Cancelled",
+      "paymentStatus": "Pending",
+      "paymentMethod": "Card",
+      "bookingChannel": "Mobile App",
+      "reminderSent": false,
+      "amount": 4217
+    },
+    {
+      "id": 77,
+      "customerId": 25,
+      "staffId": 6,
+      "serviceId": 3,
+      "status": "Completed",
+      "paymentStatus": "Paid",
+      "paymentMethod": "UPI",
+      "bookingChannel": "Mobile App",
+      "reminderSent": true,
+      "amount": 2165
+    },
+    {
+      "id": 78,
+      "customerId": 39,
+      "staffId": 4,
+      "serviceId": 18,
+      "status": "Booked",
+      "paymentStatus": "Refunded",
+      "paymentMethod": "UPI",
+      "bookingChannel": "Website",
+      "reminderSent": false,
+      "amount": 1010
+    },
+    {
+      "id": 79,
+      "customerId": 40,
+      "staffId": 13,
+      "serviceId": 10,
+      "status": "Booked",
+      "paymentStatus": "Refunded",
+      "paymentMethod": "Cash",
+      "bookingChannel": "Walk-in",
+      "reminderSent": true,
+      "amount": 473
+    },
+    {
+      "id": 80,
+      "customerId": 39,
+      "staffId": 13,
+      "serviceId": 15,
+      "status": "Cancelled",
+      "paymentStatus": "Pending",
+      "paymentMethod": "UPI",
+      "bookingChannel": "Mobile App",
+      "reminderSent": true,
+      "amount": 4875
+    },
+    {
+      "id": 81,
+      "customerId": 14,
+      "staffId": 15,
+      "serviceId": 8,
+      "status": "Cancelled",
+      "paymentStatus": "Paid",
+      "paymentMethod": "UPI",
+      "bookingChannel": "Walk-in",
+      "reminderSent": false,
+      "amount": 893
+    },
+    {
+      "id": 82,
+      "customerId": 24,
+      "staffId": 14,
+      "serviceId": 8,
+      "status": "No Show",
+      "paymentStatus": "Pending",
+      "paymentMethod": "Card",
+      "bookingChannel": "Mobile App",
+      "reminderSent": false,
+      "amount": 1336
+    },
+    {
+      "id": 83,
+      "customerId": 19,
+      "staffId": 3,
+      "serviceId": 11,
+      "status": "No Show",
+      "paymentStatus": "Pending",
+      "paymentMethod": "Card",
+      "bookingChannel": "Website",
+      "reminderSent": true,
+      "amount": 1791
+    },
+    {
+      "id": 84,
+      "customerId": 24,
+      "staffId": 5,
+      "serviceId": 3,
+      "status": "Booked",
+      "paymentStatus": "Refunded",
+      "paymentMethod": "Card",
+      "bookingChannel": "Mobile App",
+      "reminderSent": false,
+      "amount": 3692
+    },
+    {
+      "id": 85,
+      "customerId": 37,
+      "staffId": 3,
+      "serviceId": 17,
+      "status": "Completed",
+      "paymentStatus": "Paid",
+      "paymentMethod": "UPI",
+      "bookingChannel": "Mobile App",
+      "reminderSent": true,
+      "amount": 626
+    },
+    {
+      "id": 86,
+      "customerId": 13,
+      "staffId": 13,
+      "serviceId": 20,
+      "status": "No Show",
+      "paymentStatus": "Refunded",
+      "paymentMethod": "Cash",
+      "bookingChannel": "Walk-in",
+      "reminderSent": false,
+      "amount": 3849
+    },
+    {
+      "id": 87,
+      "customerId": 3,
+      "staffId": 3,
+      "serviceId": 19,
+      "status": "Booked",
+      "paymentStatus": "Paid",
+      "paymentMethod": "Cash",
+      "bookingChannel": "Website",
+      "reminderSent": false,
+      "amount": 4977
+    },
+    {
+      "id": 88,
+      "customerId": 34,
+      "staffId": 12,
+      "serviceId": 15,
+      "status": "No Show",
+      "paymentStatus": "Pending",
+      "paymentMethod": "UPI",
+      "bookingChannel": "Mobile App",
+      "reminderSent": false,
+      "amount": 4173
+    },
+    {
+      "id": 89,
+      "customerId": 5,
+      "staffId": 6,
+      "serviceId": 5,
+      "status": "Cancelled",
+      "paymentStatus": "Paid",
+      "paymentMethod": "UPI",
+      "bookingChannel": "Mobile App",
+      "reminderSent": true,
+      "amount": 1010
+    },
+    {
+      "id": 90,
+      "customerId": 35,
+      "staffId": 13,
+      "serviceId": 9,
+      "status": "No Show",
+      "paymentStatus": "Paid",
+      "paymentMethod": "Cash",
+      "bookingChannel": "Mobile App",
+      "reminderSent": true,
+      "amount": 4552
+    },
+    {
+      "id": 91,
+      "customerId": 7,
+      "staffId": 13,
+      "serviceId": 2,
+      "status": "No Show",
+      "paymentStatus": "Pending",
+      "paymentMethod": "UPI",
+      "bookingChannel": "Phone",
+      "reminderSent": true,
+      "amount": 1552
+    },
+    {
+      "id": 92,
+      "customerId": 20,
+      "staffId": 13,
+      "serviceId": 2,
+      "status": "Completed",
+      "paymentStatus": "Paid",
+      "paymentMethod": "Cash",
+      "bookingChannel": "Website",
+      "reminderSent": true,
+      "amount": 2448
+    },
+    {
+      "id": 93,
+      "customerId": 11,
+      "staffId": 11,
+      "serviceId": 19,
+      "status": "No Show",
+      "paymentStatus": "Paid",
+      "paymentMethod": "Cash",
+      "bookingChannel": "Mobile App",
+      "reminderSent": true,
+      "amount": 1183
+    },
+    {
+      "id": 94,
+      "customerId": 29,
+      "staffId": 14,
+      "serviceId": 13,
+      "status": "Booked",
+      "paymentStatus": "Pending",
+      "paymentMethod": "UPI",
+      "bookingChannel": "Phone",
+      "reminderSent": true,
+      "amount": 1587
+    },
+    {
+      "id": 95,
+      "customerId": 1,
+      "staffId": 6,
+      "serviceId": 16,
+      "status": "Booked",
+      "paymentStatus": "Pending",
+      "paymentMethod": "UPI",
+      "bookingChannel": "Website",
+      "reminderSent": true,
+      "amount": 3977
+    },
+    {
+      "id": 96,
+      "customerId": 7,
+      "staffId": 14,
+      "serviceId": 18,
+      "status": "Cancelled",
+      "paymentStatus": "Paid",
+      "paymentMethod": "Card",
+      "bookingChannel": "Phone",
+      "reminderSent": true,
+      "amount": 4150
+    },
+    {
+      "id": 97,
+      "customerId": 31,
+      "staffId": 3,
+      "serviceId": 4,
+      "status": "Cancelled",
+      "paymentStatus": "Refunded",
+      "paymentMethod": "Card",
+      "bookingChannel": "Website",
+      "reminderSent": false,
+      "amount": 1399
+    },
+    {
+      "id": 98,
+      "customerId": 8,
+      "staffId": 13,
+      "serviceId": 1,
+      "status": "No Show",
+      "paymentStatus": "Paid",
+      "paymentMethod": "Card",
+      "bookingChannel": "Phone",
+      "reminderSent": true,
+      "amount": 3166
+    },
+    {
+      "id": 99,
+      "customerId": 32,
+      "staffId": 13,
+      "serviceId": 5,
+      "status": "Completed",
+      "paymentStatus": "Paid",
+      "paymentMethod": "Card",
+      "bookingChannel": "Walk-in",
+      "reminderSent": false,
+      "amount": 3344
+    },
+    {
+      "id": 100,
+      "customerId": 7,
+      "staffId": 4,
+      "serviceId": 13,
+      "status": "No Show",
+      "paymentStatus": "Pending",
+      "paymentMethod": "Card",
+      "bookingChannel": "Phone",
+      "reminderSent": true,
+      "amount": 1559
+    },
+    {
+      "id": 101,
+      "customerId": 31,
+      "staffId": 14,
+      "serviceId": 3,
+      "status": "Cancelled",
+      "paymentStatus": "Refunded",
+      "paymentMethod": "Cash",
+      "bookingChannel": "Website",
+      "reminderSent": true,
+      "amount": 3011
+    },
+    {
+      "id": 102,
+      "customerId": 36,
+      "staffId": 8,
+      "serviceId": 2,
+      "status": "No Show",
+      "paymentStatus": "Paid",
+      "paymentMethod": "Card",
+      "bookingChannel": "Walk-in",
+      "reminderSent": false,
+      "amount": 1925
+    },
+    {
+      "id": 103,
+      "customerId": 36,
+      "staffId": 8,
+      "serviceId": 3,
+      "status": "Booked",
+      "paymentStatus": "Refunded",
+      "paymentMethod": "UPI",
+      "bookingChannel": "Mobile App",
+      "reminderSent": false,
+      "amount": 468
+    },
+    {
+      "id": 104,
+      "customerId": 11,
+      "staffId": 2,
+      "serviceId": 5,
+      "status": "No Show",
+      "paymentStatus": "Paid",
+      "paymentMethod": "Cash",
+      "bookingChannel": "Website",
+      "reminderSent": false,
+      "amount": 1609
+    },
+    {
+      "id": 105,
+      "customerId": 3,
+      "staffId": 12,
+      "serviceId": 13,
+      "status": "Cancelled",
+      "paymentStatus": "Pending",
+      "paymentMethod": "Cash",
+      "bookingChannel": "Phone",
+      "reminderSent": false,
+      "amount": 1965
+    },
+    {
+      "id": 106,
+      "customerId": 13,
+      "staffId": 9,
+      "serviceId": 2,
+      "status": "Booked",
+      "paymentStatus": "Paid",
+      "paymentMethod": "Cash",
+      "bookingChannel": "Website",
+      "reminderSent": true,
+      "amount": 2478
+    },
+    {
+      "id": 107,
+      "customerId": 3,
+      "staffId": 7,
+      "serviceId": 3,
+      "status": "Booked",
+      "paymentStatus": "Pending",
+      "paymentMethod": "Cash",
+      "bookingChannel": "Phone",
+      "reminderSent": true,
+      "amount": 4517
+    },
+    {
+      "id": 108,
+      "customerId": 33,
+      "staffId": 8,
+      "serviceId": 20,
+      "status": "Completed",
+      "paymentStatus": "Pending",
+      "paymentMethod": "Cash",
+      "bookingChannel": "Website",
+      "reminderSent": false,
+      "amount": 4336
+    },
+    {
+      "id": 109,
+      "customerId": 15,
+      "staffId": 10,
+      "serviceId": 11,
+      "status": "Cancelled",
+      "paymentStatus": "Refunded",
+      "paymentMethod": "Cash",
+      "bookingChannel": "Walk-in",
+      "reminderSent": false,
+      "amount": 2973
+    },
+    {
+      "id": 110,
+      "customerId": 19,
+      "staffId": 2,
+      "serviceId": 2,
+      "status": "Booked",
+      "paymentStatus": "Pending",
+      "paymentMethod": "Cash",
+      "bookingChannel": "Website",
+      "reminderSent": true,
+      "amount": 3688
+    },
+    {
+      "id": 111,
+      "customerId": 33,
+      "staffId": 14,
+      "serviceId": 5,
+      "status": "No Show",
+      "paymentStatus": "Paid",
+      "paymentMethod": "UPI",
+      "bookingChannel": "Walk-in",
+      "reminderSent": false,
+      "amount": 1224
+    },
+    {
+      "id": 112,
+      "customerId": 2,
+      "staffId": 8,
+      "serviceId": 8,
+      "status": "Completed",
+      "paymentStatus": "Refunded",
+      "paymentMethod": "Cash",
+      "bookingChannel": "Phone",
+      "reminderSent": true,
+      "amount": 2566
+    },
+    {
+      "id": 113,
+      "customerId": 2,
+      "staffId": 5,
+      "serviceId": 14,
+      "status": "Booked",
+      "paymentStatus": "Pending",
+      "paymentMethod": "Cash",
+      "bookingChannel": "Website",
+      "reminderSent": false,
+      "amount": 4991
+    },
+    {
+      "id": 114,
+      "customerId": 18,
+      "staffId": 1,
+      "serviceId": 5,
+      "status": "Cancelled",
+      "paymentStatus": "Refunded",
+      "paymentMethod": "Cash",
+      "bookingChannel": "Mobile App",
+      "reminderSent": true,
+      "amount": 1579
+    },
+    {
+      "id": 115,
+      "customerId": 14,
+      "staffId": 4,
+      "serviceId": 11,
+      "status": "No Show",
+      "paymentStatus": "Paid",
+      "paymentMethod": "UPI",
+      "bookingChannel": "Mobile App",
+      "reminderSent": false,
+      "amount": 4118
+    },
+    {
+      "id": 116,
+      "customerId": 40,
+      "staffId": 13,
+      "serviceId": 19,
+      "status": "No Show",
+      "paymentStatus": "Pending",
+      "paymentMethod": "UPI",
+      "bookingChannel": "Mobile App",
+      "reminderSent": true,
+      "amount": 490
+    },
+    {
+      "id": 117,
+      "customerId": 18,
+      "staffId": 7,
+      "serviceId": 6,
+      "status": "No Show",
+      "paymentStatus": "Paid",
+      "paymentMethod": "UPI",
+      "bookingChannel": "Phone",
+      "reminderSent": true,
+      "amount": 4545
+    },
+    {
+      "id": 118,
+      "customerId": 24,
+      "staffId": 1,
+      "serviceId": 16,
+      "status": "No Show",
+      "paymentStatus": "Paid",
+      "paymentMethod": "Cash",
+      "bookingChannel": "Phone",
+      "reminderSent": true,
+      "amount": 3150
+    },
+    {
+      "id": 119,
+      "customerId": 18,
+      "staffId": 4,
+      "serviceId": 19,
+      "status": "Booked",
+      "paymentStatus": "Pending",
+      "paymentMethod": "UPI",
+      "bookingChannel": "Phone",
+      "reminderSent": true,
+      "amount": 4596
+    },
+    {
+      "id": 120,
+      "customerId": 37,
+      "staffId": 12,
+      "serviceId": 8,
+      "status": "Booked",
+      "paymentStatus": "Paid",
+      "paymentMethod": "Card",
+      "bookingChannel": "Mobile App",
+      "reminderSent": false,
+      "amount": 1070
+    },
+    {
+      "id": 121,
+      "customerId": 32,
+      "staffId": 4,
+      "serviceId": 2,
+      "status": "No Show",
+      "paymentStatus": "Paid",
+      "paymentMethod": "Cash",
+      "bookingChannel": "Phone",
+      "reminderSent": false,
+      "amount": 4714
+    },
+    {
+      "id": 122,
+      "customerId": 22,
+      "staffId": 14,
+      "serviceId": 11,
+      "status": "Cancelled",
+      "paymentStatus": "Paid",
+      "paymentMethod": "Card",
+      "bookingChannel": "Phone",
+      "reminderSent": false,
+      "amount": 4721
+    },
+    {
+      "id": 123,
+      "customerId": 32,
+      "staffId": 12,
+      "serviceId": 13,
+      "status": "Cancelled",
+      "paymentStatus": "Refunded",
+      "paymentMethod": "UPI",
+      "bookingChannel": "Phone",
+      "reminderSent": false,
+      "amount": 3985
+    },
+    {
+      "id": 124,
+      "customerId": 14,
+      "staffId": 15,
+      "serviceId": 12,
+      "status": "Cancelled",
+      "paymentStatus": "Refunded",
+      "paymentMethod": "Card",
+      "bookingChannel": "Mobile App",
+      "reminderSent": true,
+      "amount": 3130
+    },
+    {
+      "id": 125,
+      "customerId": 34,
+      "staffId": 10,
+      "serviceId": 18,
+      "status": "Completed",
+      "paymentStatus": "Pending",
+      "paymentMethod": "Card",
+      "bookingChannel": "Mobile App",
+      "reminderSent": false,
+      "amount": 3650
+    },
+    {
+      "id": 126,
+      "customerId": 33,
+      "staffId": 3,
+      "serviceId": 18,
+      "status": "Booked",
+      "paymentStatus": "Refunded",
+      "paymentMethod": "UPI",
+      "bookingChannel": "Phone",
+      "reminderSent": true,
+      "amount": 3506
+    },
+    {
+      "id": 127,
+      "customerId": 24,
+      "staffId": 4,
+      "serviceId": 16,
+      "status": "Completed",
+      "paymentStatus": "Pending",
+      "paymentMethod": "Cash",
+      "bookingChannel": "Website",
+      "reminderSent": false,
+      "amount": 3344
+    },
+    {
+      "id": 128,
+      "customerId": 12,
+      "staffId": 6,
+      "serviceId": 5,
+      "status": "No Show",
+      "paymentStatus": "Pending",
+      "paymentMethod": "UPI",
+      "bookingChannel": "Mobile App",
+      "reminderSent": true,
+      "amount": 4643
+    },
+    {
+      "id": 129,
+      "customerId": 15,
+      "staffId": 14,
+      "serviceId": 20,
+      "status": "Completed",
+      "paymentStatus": "Refunded",
+      "paymentMethod": "Cash",
+      "bookingChannel": "Phone",
+      "reminderSent": false,
+      "amount": 744
+    },
+    {
+      "id": 130,
+      "customerId": 40,
+      "staffId": 6,
+      "serviceId": 8,
+      "status": "Booked",
+      "paymentStatus": "Refunded",
+      "paymentMethod": "Cash",
+      "bookingChannel": "Walk-in",
+      "reminderSent": false,
+      "amount": 3032
+    },
+    {
+      "id": 131,
+      "customerId": 20,
+      "staffId": 5,
+      "serviceId": 4,
+      "status": "Completed",
+      "paymentStatus": "Paid",
+      "paymentMethod": "UPI",
+      "bookingChannel": "Phone",
+      "reminderSent": false,
+      "amount": 1756
+    },
+    {
+      "id": 132,
+      "customerId": 36,
+      "staffId": 1,
+      "serviceId": 12,
+      "status": "No Show",
+      "paymentStatus": "Paid",
+      "paymentMethod": "Card",
+      "bookingChannel": "Mobile App",
+      "reminderSent": true,
+      "amount": 4799
+    },
+    {
+      "id": 133,
+      "customerId": 31,
+      "staffId": 1,
+      "serviceId": 2,
+      "status": "Cancelled",
+      "paymentStatus": "Refunded",
+      "paymentMethod": "UPI",
+      "bookingChannel": "Walk-in",
+      "reminderSent": true,
+      "amount": 3877
+    },
+    {
+      "id": 134,
+      "customerId": 23,
+      "staffId": 12,
+      "serviceId": 3,
+      "status": "Cancelled",
+      "paymentStatus": "Pending",
+      "paymentMethod": "Cash",
+      "bookingChannel": "Walk-in",
+      "reminderSent": false,
+      "amount": 2781
+    },
+    {
+      "id": 135,
+      "customerId": 29,
+      "staffId": 7,
+      "serviceId": 12,
+      "status": "No Show",
+      "paymentStatus": "Refunded",
+      "paymentMethod": "Card",
+      "bookingChannel": "Mobile App",
+      "reminderSent": false,
+      "amount": 3824
+    },
+    {
+      "id": 136,
+      "customerId": 38,
+      "staffId": 8,
+      "serviceId": 20,
+      "status": "No Show",
+      "paymentStatus": "Paid",
+      "paymentMethod": "Cash",
+      "bookingChannel": "Mobile App",
+      "reminderSent": false,
+      "amount": 3219
+    },
+    {
+      "id": 137,
+      "customerId": 21,
+      "staffId": 11,
+      "serviceId": 18,
+      "status": "Cancelled",
+      "paymentStatus": "Paid",
+      "paymentMethod": "Cash",
+      "bookingChannel": "Phone",
+      "reminderSent": true,
+      "amount": 1555
+    },
+    {
+      "id": 138,
+      "customerId": 37,
+      "staffId": 14,
+      "serviceId": 18,
+      "status": "Completed",
+      "paymentStatus": "Paid",
+      "paymentMethod": "UPI",
+      "bookingChannel": "Website",
+      "reminderSent": false,
+      "amount": 3392
+    },
+    {
+      "id": 139,
+      "customerId": 31,
+      "staffId": 9,
+      "serviceId": 7,
+      "status": "Cancelled",
+      "paymentStatus": "Pending",
+      "paymentMethod": "UPI",
+      "bookingChannel": "Phone",
+      "reminderSent": false,
+      "amount": 979
+    },
+    {
+      "id": 140,
+      "customerId": 37,
+      "staffId": 7,
+      "serviceId": 17,
+      "status": "Completed",
+      "paymentStatus": "Pending",
+      "paymentMethod": "UPI",
+      "bookingChannel": "Phone",
+      "reminderSent": true,
+      "amount": 4924
+    },
+    {
+      "id": 141,
+      "customerId": 16,
+      "staffId": 6,
+      "serviceId": 13,
+      "status": "Cancelled",
+      "paymentStatus": "Pending",
+      "paymentMethod": "Card",
+      "bookingChannel": "Website",
+      "reminderSent": false,
+      "amount": 4693
+    },
+    {
+      "id": 142,
+      "customerId": 9,
+      "staffId": 3,
+      "serviceId": 11,
+      "status": "Completed",
+      "paymentStatus": "Refunded",
+      "paymentMethod": "Cash",
+      "bookingChannel": "Mobile App",
+      "reminderSent": false,
+      "amount": 2469
+    },
+    {
+      "id": 143,
+      "customerId": 4,
+      "staffId": 1,
+      "serviceId": 20,
+      "status": "Completed",
+      "paymentStatus": "Refunded",
+      "paymentMethod": "UPI",
+      "bookingChannel": "Mobile App",
+      "reminderSent": true,
+      "amount": 4785
+    },
+    {
+      "id": 144,
+      "customerId": 11,
+      "staffId": 6,
+      "serviceId": 14,
+      "status": "Completed",
+      "paymentStatus": "Paid",
+      "paymentMethod": "UPI",
+      "bookingChannel": "Mobile App",
+      "reminderSent": false,
+      "amount": 861
+    },
+    {
+      "id": 145,
+      "customerId": 20,
+      "staffId": 1,
+      "serviceId": 1,
+      "status": "Booked",
+      "paymentStatus": "Refunded",
+      "paymentMethod": "UPI",
+      "bookingChannel": "Mobile App",
+      "reminderSent": true,
+      "amount": 1088
+    },
+    {
+      "id": 146,
+      "customerId": 14,
+      "staffId": 2,
+      "serviceId": 15,
+      "status": "Completed",
+      "paymentStatus": "Refunded",
+      "paymentMethod": "Cash",
+      "bookingChannel": "Phone",
+      "reminderSent": false,
+      "amount": 1768
+    },
+    {
+      "id": 147,
+      "customerId": 15,
+      "staffId": 10,
+      "serviceId": 2,
+      "status": "No Show",
+      "paymentStatus": "Paid",
+      "paymentMethod": "Cash",
+      "bookingChannel": "Website",
+      "reminderSent": false,
+      "amount": 3420
+    },
+    {
+      "id": 148,
+      "customerId": 28,
+      "staffId": 8,
+      "serviceId": 4,
+      "status": "Cancelled",
+      "paymentStatus": "Refunded",
+      "paymentMethod": "Cash",
+      "bookingChannel": "Walk-in",
+      "reminderSent": true,
+      "amount": 3996
+    },
+    {
+      "id": 149,
+      "customerId": 2,
+      "staffId": 9,
+      "serviceId": 5,
+      "status": "Completed",
+      "paymentStatus": "Refunded",
+      "paymentMethod": "Cash",
+      "bookingChannel": "Phone",
+      "reminderSent": false,
+      "amount": 1140
+    },
+    {
+      "id": 150,
+      "customerId": 36,
+      "staffId": 7,
+      "serviceId": 1,
+      "status": "Booked",
+      "paymentStatus": "Paid",
+      "paymentMethod": "UPI",
+      "bookingChannel": "Phone",
+      "reminderSent": true,
+      "amount": 3530
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "customerId": 8,
+      "rating": 4,
+      "comment": "Worth the money"
+    },
+    {
+      "id": 2,
+      "customerId": 5,
+      "rating": 4,
+      "comment": "Loved the experience"
+    },
+    {
+      "id": 3,
+      "customerId": 16,
+      "rating": 5,
+      "comment": "Worth the money"
+    },
+    {
+      "id": 4,
+      "customerId": 1,
+      "rating": 5,
+      "comment": "Excellent service"
+    },
+    {
+      "id": 5,
+      "customerId": 4,
+      "rating": 4,
+      "comment": "Will visit again"
+    },
+    {
+      "id": 6,
+      "customerId": 3,
+      "rating": 3,
+      "comment": "Excellent service"
+    },
+    {
+      "id": 7,
+      "customerId": 15,
+      "rating": 4,
+      "comment": "Worth the money"
+    },
+    {
+      "id": 8,
+      "customerId": 3,
+      "rating": 5,
+      "comment": "Loved the experience"
+    },
+    {
+      "id": 9,
+      "customerId": 18,
+      "rating": 5,
+      "comment": "Very professional staff"
+    },
+    {
+      "id": 10,
+      "customerId": 24,
+      "rating": 4,
+      "comment": "Loved the experience"
+    },
+    {
+      "id": 11,
+      "customerId": 9,
+      "rating": 3,
+      "comment": "Will visit again"
+    },
+    {
+      "id": 12,
+      "customerId": 11,
+      "rating": 3,
+      "comment": "Loved the experience"
+    },
+    {
+      "id": 13,
+      "customerId": 3,
+      "rating": 4,
+      "comment": "Excellent service"
+    },
+    {
+      "id": 14,
+      "customerId": 33,
+      "rating": 5,
+      "comment": "Loved the experience"
+    },
+    {
+      "id": 15,
+      "customerId": 26,
+      "rating": 5,
+      "comment": "Loved the experience"
+    },
+    {
+      "id": 16,
+      "customerId": 40,
+      "rating": 3,
+      "comment": "Excellent service"
+    },
+    {
+      "id": 17,
+      "customerId": 27,
+      "rating": 5,
+      "comment": "Loved the experience"
+    },
+    {
+      "id": 18,
+      "customerId": 14,
+      "rating": 4,
+      "comment": "Loved the experience"
+    },
+    {
+      "id": 19,
+      "customerId": 22,
+      "rating": 3,
+      "comment": "Will visit again"
+    },
+    {
+      "id": 20,
+      "customerId": 38,
+      "rating": 4,
+      "comment": "Loved the experience"
+    },
+    {
+      "id": 21,
+      "customerId": 11,
+      "rating": 4,
+      "comment": "Excellent service"
+    },
+    {
+      "id": 22,
+      "customerId": 38,
+      "rating": 5,
+      "comment": "Will visit again"
+    },
+    {
+      "id": 23,
+      "customerId": 39,
+      "rating": 3,
+      "comment": "Loved the experience"
+    },
+    {
+      "id": 24,
+      "customerId": 16,
+      "rating": 3,
+      "comment": "Worth the money"
+    },
+    {
+      "id": 25,
+      "customerId": 28,
+      "rating": 3,
+      "comment": "Very professional staff"
+    },
+    {
+      "id": 26,
+      "customerId": 25,
+      "rating": 5,
+      "comment": "Worth the money"
+    },
+    {
+      "id": 27,
+      "customerId": 6,
+      "rating": 5,
+      "comment": "Worth the money"
+    },
+    {
+      "id": 28,
+      "customerId": 21,
+      "rating": 3,
+      "comment": "Very professional staff"
+    },
+    {
+      "id": 29,
+      "customerId": 18,
+      "rating": 3,
+      "comment": "Very professional staff"
+    },
+    {
+      "id": 30,
+      "customerId": 6,
+      "rating": 5,
+      "comment": "Will visit again"
+    }
+  ],
+  "offers": [
+    {
+      "id": 1,
+      "title": "43% Off Offer",
+      "validDays": 8
+    },
+    {
+      "id": 2,
+      "title": "16% Off Offer",
+      "validDays": 13
+    },
+    {
+      "id": 3,
+      "title": "13% Off Offer",
+      "validDays": 13
+    },
+    {
+      "id": 4,
+      "title": "50% Off Offer",
+      "validDays": 5
+    },
+    {
+      "id": 5,
+      "title": "14% Off Offer",
+      "validDays": 5
+    },
+    {
+      "id": 6,
+      "title": "44% Off Offer",
+      "validDays": 22
+    },
+    {
+      "id": 7,
+      "title": "31% Off Offer",
+      "validDays": 12
+    },
+    {
+      "id": 8,
+      "title": "32% Off Offer",
+      "validDays": 13
+    },
+    {
+      "id": 9,
+      "title": "14% Off Offer",
+      "validDays": 19
+    },
+    {
+      "id": 10,
+      "title": "33% Off Offer",
+      "validDays": 11
+    },
+    {
+      "id": 11,
+      "title": "29% Off Offer",
+      "validDays": 16
+    },
+    {
+      "id": 12,
+      "title": "41% Off Offer",
+      "validDays": 16
+    },
+    {
+      "id": 13,
+      "title": "28% Off Offer",
+      "validDays": 9
+    },
+    {
+      "id": 14,
+      "title": "10% Off Offer",
+      "validDays": 28
+    },
+    {
+      "id": 15,
+      "title": "33% Off Offer",
+      "validDays": 13
+    }
+  ],
+  "inventory": [
+    {
+      "id": 1,
+      "product": "Face Cream",
+      "stock": 165,
+      "reorderLevel": 20
+    },
+    {
+      "id": 2,
+      "product": "Conditioner",
+      "stock": 9,
+      "reorderLevel": 20
+    },
+    {
+      "id": 3,
+      "product": "Hair Wax",
+      "stock": 27,
+      "reorderLevel": 20
+    },
+    {
+      "id": 4,
+      "product": "Conditioner",
+      "stock": 112,
+      "reorderLevel": 20
+    },
+    {
+      "id": 5,
+      "product": "Hair Wax",
+      "stock": 110,
+      "reorderLevel": 20
+    },
+    {
+      "id": 6,
+      "product": "Hair Serum",
+      "stock": 41,
+      "reorderLevel": 20
+    },
+    {
+      "id": 7,
+      "product": "Hair Serum",
+      "stock": 12,
+      "reorderLevel": 20
+    },
+    {
+      "id": 8,
+      "product": "Face Cream",
+      "stock": 153,
+      "reorderLevel": 20
+    },
+    {
+      "id": 9,
+      "product": "Hair Serum",
+      "stock": 144,
+      "reorderLevel": 20
+    },
+    {
+      "id": 10,
+      "product": "Hair Wax",
+      "stock": 37,
+      "reorderLevel": 20
+    },
+    {
+      "id": 11,
+      "product": "Face Cream",
+      "stock": 146,
+      "reorderLevel": 20
+    },
+    {
+      "id": 12,
+      "product": "Conditioner",
+      "stock": 0,
+      "reorderLevel": 20
+    },
+    {
+      "id": 13,
+      "product": "Conditioner",
+      "stock": 170,
+      "reorderLevel": 20
+    },
+    {
+      "id": 14,
+      "product": "Conditioner",
+      "stock": 117,
+      "reorderLevel": 20
+    },
+    {
+      "id": 15,
+      "product": "Face Cream",
+      "stock": 64,
+      "reorderLevel": 20
+    },
+    {
+      "id": 16,
+      "product": "Nail Polish",
+      "stock": 44,
+      "reorderLevel": 20
+    },
+    {
+      "id": 17,
+      "product": "Beard Oil",
+      "stock": 187,
+      "reorderLevel": 20
+    },
+    {
+      "id": 18,
+      "product": "Shampoo",
+      "stock": 1,
+      "reorderLevel": 20
+    },
+    {
+      "id": 19,
+      "product": "Shampoo",
+      "stock": 187,
+      "reorderLevel": 20
+    },
+    {
+      "id": 20,
+      "product": "Face Cream",
+      "stock": 100,
+      "reorderLevel": 20
+    },
+    {
+      "id": 21,
+      "product": "Conditioner",
+      "stock": 185,
+      "reorderLevel": 20
+    },
+    {
+      "id": 22,
+      "product": "Face Cream",
+      "stock": 107,
+      "reorderLevel": 20
+    },
+    {
+      "id": 23,
+      "product": "Hair Serum",
+      "stock": 63,
+      "reorderLevel": 20
+    },
+    {
+      "id": 24,
+      "product": "Conditioner",
+      "stock": 22,
+      "reorderLevel": 20
+    },
+    {
+      "id": 25,
+      "product": "Face Cream",
+      "stock": 125,
+      "reorderLevel": 20
+    },
+    {
+      "id": 26,
+      "product": "Hair Wax",
+      "stock": 167,
+      "reorderLevel": 20
+    },
+    {
+      "id": 27,
+      "product": "Beard Oil",
+      "stock": 74,
+      "reorderLevel": 20
+    },
+    {
+      "id": 28,
+      "product": "Beard Oil",
+      "stock": 92,
+      "reorderLevel": 20
+    },
+    {
+      "id": 29,
+      "product": "Hair Serum",
+      "stock": 183,
+      "reorderLevel": 20
+    },
+    {
+      "id": 30,
+      "product": "Hair Wax",
+      "stock": 60,
+      "reorderLevel": 20
+    }
+  ]
+}

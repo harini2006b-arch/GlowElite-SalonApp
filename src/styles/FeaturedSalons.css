@@ -1,0 +1,63 @@
+.featured-section{
+    padding:100px 0;
+    background:#111111;
+}
+
+.salon-card{
+background:rgba(255,255,255,.04);
+backdrop-filter:blur(10px);    border-radius:25px;
+    overflow:hidden;
+    transition:0.4s;
+    border:1px solid rgba(212,175,55,0.1);
+}
+
+.salon-card:hover{
+transform:translateY(-12px);
+    box-shadow:0 20px 40px rgba(0,0,0,.4);}
+
+.salon-card img{
+    width:100%;
+    height:280px;
+    object-fit:cover;
+}
+
+.salon-content{
+    padding:25px;
+}
+
+.luxury-score{
+    display:inline-block;
+    background:#D4AF37;
+    color:black;
+    padding:6px 14px;
+    border-radius:30px;
+    font-size:13px;
+    font-weight:600;
+    margin-bottom:15px;
+}
+
+.salon-content h4{
+    color:white;
+    margin-bottom:10px;
+        font-size:1.4rem;
+
+}
+
+.salon-content p{
+    color:#a1a1aa;
+}
+
+.salon-bottom{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    margin-top:20px;
+}
+
+.salon-bottom button{
+    border:none;
+    background:#D4AF37;
+    padding:8px 20px;
+    border-radius:30px;
+    font-weight:600;
+}

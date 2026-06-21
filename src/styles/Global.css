@@ -1,0 +1,54 @@
+
+:root{
+  --black:#0F0F0F;
+  --dark:#171717;
+  --gold:#D4AF37;
+  --light-gold:#F4D58D;
+  --white:#FFFFFF;
+  --gray:#A1A1AA;
+}
+
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+
+html{
+  scroll-behavior:smooth;
+}
+
+body{
+  background:var(--black);
+  color:var(--white);
+  font-family:'Poppins',sans-serif;
+  overflow-x:hidden;
+}
+
+h1,h2,h3,h4,h5,h6{
+  font-family:'Playfair Display',serif;
+}
+
+a{
+  text-decoration:none;
+}
+
+section{
+  padding:100px 0;
+}
+
+.gold-text{
+  color:var(--gold);
+}
+
+.section-title{
+  text-align:center;
+  font-size:3rem;
+  margin-bottom:20px;
+}
+
+.section-subtitle{
+  text-align:center;
+  color:var(--gray);
+  margin-bottom:60px;
+}

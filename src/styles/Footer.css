@@ -1,0 +1,240 @@
+.footer{
+
+    background:
+    linear-gradient(
+      135deg,
+      #0a0a0a,
+      #121212
+    );
+
+    padding:90px 0 25px;
+
+    border-top:
+    1px solid rgba(
+      212,
+      175,
+      55,
+      .15
+    );
+}
+
+.footer-logo{
+
+    color:#D4AF37;
+
+    font-size:2.5rem;
+
+    font-family:
+    "Playfair Display",
+    serif;
+
+    margin-bottom:20px;
+}
+
+.footer-description{
+
+    color:#cfcfcf;
+
+    line-height:1.8;
+
+    margin-bottom:25px;
+}
+
+.footer h5{
+
+    color:#D4AF37;
+
+    margin-bottom:20px;
+
+    font-weight:700;
+}
+
+.footer ul{
+
+    list-style:none;
+
+    padding:0;
+}
+
+.footer li{
+
+    color:#d9d9d9;
+
+    margin-bottom:12px;
+
+    transition:.3s;
+
+    cursor:pointer;
+}
+
+.footer li:hover{
+
+    color:#D4AF37;
+
+    transform:
+    translateX(5px);
+}
+
+.footer-social{
+
+    display:flex;
+
+    gap:15px;
+}
+
+.footer-social a{
+
+    width:50px;
+
+    height:50px;
+
+    display:flex;
+
+    align-items:center;
+
+    justify-content:center;
+
+    border-radius:50%;
+
+    background:
+    rgba(255,255,255,.08);
+
+    color:white;
+
+    text-decoration:none;
+
+    backdrop-filter:blur(10px);
+
+    transition:.4s;
+
+    font-size:20px;
+}
+
+.footer-social a:hover{
+
+    background:#D4AF37;
+
+    color:black;
+
+    transform:
+    translateY(-6px)
+    scale(1.08);
+
+    box-shadow:
+    0 10px 25px rgba(
+      212,
+      175,
+      55,
+      .4
+    );
+}
+
+.footer-divider{
+
+    height:1px;
+
+    background:
+    rgba(
+      255,
+      255,
+      255,
+      .08
+    );
+
+    margin:50px 0 25px;
+}
+
+.footer-bottom{
+
+    display:flex;
+
+    justify-content:space-between;
+
+    align-items:center;
+
+    flex-wrap:wrap;
+}
+
+.footer-bottom p{
+
+    color:#aaa;
+
+    margin:0;
+}
+
+.footer-links{
+
+    display:flex;
+
+    gap:25px;
+
+    color:#aaa;
+}
+
+.footer-links span{
+
+    cursor:pointer;
+
+    transition:.3s;
+}
+
+.footer-links span:hover{
+
+    color:#D4AF37;
+}
+
+/* Mobile Responsive */
+
+@media(max-width:768px){
+
+.footer{
+
+    text-align:center;
+}
+
+.footer-social{
+
+    justify-content:center;
+}
+
+.footer-bottom{
+
+    flex-direction:column;
+
+    gap:15px;
+}
+
+.footer-links{
+
+    flex-wrap:wrap;
+
+    justify-content:center;
+}
+
+.footer-logo{
+
+    font-size:2rem;
+}
+
+}
+
+
+.contact-list li{
+
+    display:flex;
+
+    align-items:center;
+
+    gap:12px;
+
+    margin-bottom:15px;
+}
+
+.contact-icon{
+
+    color:#D4AF37;
+
+    font-size:16px;
+
+    min-width:20px;
+}

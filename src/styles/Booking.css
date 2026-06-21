@@ -1,0 +1,123 @@
+.booking-page{
+
+    min-height:100vh;
+
+    background:
+    linear-gradient(
+        rgba(0,0,0,.75),
+        rgba(0,0,0,.85)
+    ),
+    url("https://images.unsplash.com/photo-1521590832167-7bcbfaa6381f?w=1920");
+
+    background-size:cover;
+    background-position:center;
+
+    display:flex;
+    align-items:center;
+
+    padding:120px 0;
+}
+
+.booking-card{
+
+    max-width:650px;
+
+    margin:auto;
+
+    background:
+    rgba(255,255,255,.05);
+
+    backdrop-filter:blur(15px);
+
+    border-radius:30px;
+
+    padding:50px;
+
+    border:
+    1px solid rgba(212,175,55,.15);
+}
+
+.booking-card h1{
+
+    text-align:center;
+
+    color:#D4AF37;
+
+    margin-bottom:35px;
+}
+
+.booking-card select,
+.booking-card input{
+
+    width:100%;
+
+    padding:15px;
+
+    margin-bottom:20px;
+
+    border:none;
+
+    border-radius:15px;
+
+    background:
+    rgba(255,255,255,.08);
+
+    color:white;
+}
+
+.booking-card button{
+
+    width:100%;
+
+    padding:16px;
+
+    border:none;
+
+    border-radius:15px;
+
+    background:#D4AF37;
+
+    color:black;
+
+    font-weight:700;
+
+    transition:.3s;
+}
+
+.booking-card button:hover{
+
+    transform:
+    translateY(-3px);
+
+    box-shadow:
+    0 10px 25px rgba(212,175,55,.4);
+}
+
+.offer-info{
+
+    background:
+    rgba(212,175,55,.12);
+
+    border:
+    1px solid rgba(212,175,55,.25);
+
+    padding:20px;
+
+    border-radius:20px;
+
+    margin:20px 0;
+
+    color:white;
+}
+
+.offer-info h3{
+
+    color:#D4AF37;
+
+    margin-bottom:15px;
+}
+
+.offer-info p{
+
+    margin-bottom:8px;
+}

@@ -1,0 +1,159 @@
+.ai-page{
+
+    min-height:100vh;
+
+    background:
+    linear-gradient(
+      rgba(219, 215, 215, 0.7),
+      rgba(0,0,0,.80)
+    ),
+    url("https://www.avikalp.com/cdn/shop/products/MWZ3632_wallpaper1.jpg?v=1746036222");
+
+    background-size:cover;
+
+    background-position:center;
+
+    background-attachment:fixed;
+
+    display:flex;
+
+    justify-content:center;
+
+    align-items:center;
+
+    padding:120px 20px;
+}
+
+.ai-card{
+  width:600px;
+  background:#141414;
+  padding:40px;
+  border-radius:20px;
+  text-align:center;
+  border:1px solid #d4af37;
+}
+
+.ai-card h1{
+  color:#d4af37;
+  margin-bottom:10px;
+}
+
+.ai-card p{
+  color:white;
+  margin-bottom:25px;
+}
+
+.preview-image{
+  width:100%;
+  height:350px;
+  object-fit:cover;
+  border-radius:15px;
+  margin:20px 0;
+}
+
+.ai-card button{
+  background:#d4af37;
+  color:black;
+  border:none;
+  padding:14px 30px;
+  border-radius:10px;
+  font-weight:600;
+}
+
+
+.ai-expert-btn{
+
+    width:100%;
+
+    padding:18px;
+
+    border:none;
+
+    border-radius:18px;
+
+    background:
+    linear-gradient(
+      135deg,
+      #D4AF37,
+      #F7E27D
+    );
+
+    color:#111;
+
+    font-size:18px;
+
+    font-weight:700;
+
+    cursor:pointer;
+
+    transition:.4s;
+}
+
+.ai-expert-btn:hover{
+
+    transform:
+    translateY(-4px);
+
+    box-shadow:
+    0 15px 40px rgba(212,175,55,.5);
+}
+.ai-expert-btn::before{
+
+    content:"";
+
+    position:absolute;
+
+    top:0;
+
+    left:-120%;
+
+    width:60%;
+
+    height:100%;
+
+    background:
+    linear-gradient(
+      90deg,
+      transparent,
+      rgba(255,255,255,.5),
+      transparent
+    );
+
+    transition:.8s;
+}
+
+.ai-expert-btn:hover::before{
+
+    left:150%;
+}
+
+.ai-expert-btn:hover{
+
+    transform:
+    translateY(-4px)
+    scale(1.02);
+
+    box-shadow:
+    0 15px 40px rgba(
+      212,
+      175,
+      55,
+      .5
+    );
+}
+
+@keyframes goldFlow{
+
+0%{
+background-position:0% 50%;
+}
+
+50%{
+background-position:100% 50%;
+}
+
+100%{
+background-position:0% 50%;
+}
+
+}

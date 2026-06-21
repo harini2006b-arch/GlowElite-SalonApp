@@ -1,0 +1,272 @@
+.login-page{
+    position:relative;
+    min-height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    overflow:hidden;
+    background:
+    linear-gradient(
+      rgba(12, 11, 11, 0.7),
+      rgba(0,0,0,.80)
+    ),
+    url("https://www.avikalp.com/cdn/shop/products/MWZ3632_wallpaper1.jpg?v=1746036222");
+
+}
+
+.login-video{
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+    object-fit:cover;
+    z-index:0;
+}
+
+.login-card{
+
+    position:relative;
+    z-index:2;
+
+    width:450px;
+
+    background:
+    rgba(255,255,255,.10);
+
+    backdrop-filter:
+    blur(20px);
+
+    border:
+    1px solid rgba(212,175,55,.25);
+
+    border-radius:35px;
+
+    padding:45px;
+
+    box-shadow:
+    0 25px 60px rgba(0,0,0,.3);
+}
+
+
+.login-card::before{
+
+    content:"";
+
+    position:absolute;
+
+    width:250px;
+    height:250px;
+
+    background:
+    radial-gradient(
+        circle,
+        rgba(212,175,55,.25),
+        transparent
+    );
+
+    top:-100px;
+    right:-100px;
+
+    filter:blur(60px);
+
+    z-index:-1;
+}
+
+
+.login-logo{
+
+    text-align:center;
+
+    color:#D4AF37;
+
+    font-size:3rem;
+
+    margin-bottom:10px;
+
+    font-family:'Playfair Display', serif;
+}
+
+.login-subtitle{
+
+    text-align:center;
+
+    color:#ddd;
+
+    margin-bottom:35px;
+}
+
+.login-card input{
+
+    width:100%;
+
+    padding:16px 20px;
+
+    margin-bottom:18px;
+
+    border:none;
+
+    border-radius:15px;
+
+    background:
+    rgba(255,255,255,.15);
+
+    color:white;
+
+    backdrop-filter:blur(10px);
+}
+
+.login-card input::placeholder{
+    color:#e5e7eb;
+}
+
+.login-card input:focus{
+
+    border:
+    1px solid #D4AF37;
+}
+
+.login-btn{
+
+    width:100%;
+
+    padding:16px;
+
+    border:none;
+
+    border-radius:15px;
+
+    background:#D4AF37;
+
+    color:black;
+
+    font-weight:700;
+
+    transition:.3s;
+}
+
+.login-btn:hover{
+
+    transform:
+    translateY(-3px);
+
+    box-shadow:
+    0 10px 25px rgba(212,175,55,.4);
+}
+
+.register-link{
+
+    margin-top:25px;
+
+    text-align:center;
+
+    color:#ccc;
+}
+
+.register-link a{
+
+    color:#D4AF37;
+
+    margin-left:8px;
+
+    text-decoration:none;
+}
+
+@keyframes fadeIn{
+
+    from{
+        opacity:0;
+        transform:translateY(20px);
+    }
+
+    to{
+        opacity:1;
+        transform:translateY(0);
+    }
+}
+
+
+
+.login-overlay{
+    position:absolute;
+    inset:0;
+
+    background:
+    linear-gradient(
+        rgba(0,0,0,.25),
+        rgba(0,0,0,.35)
+    );
+
+    z-index:1;
+}
+
+.login-badge{
+    display:inline-block;
+
+    padding:10px 18px;
+
+    border-radius:30px;
+
+    background:
+    rgba(212,175,55,.15);
+
+    color:#D4AF37;
+
+    margin-bottom:20px;
+
+    font-size:.9rem;
+}
+
+.login-options{
+    display:flex;
+
+    justify-content:space-between;
+
+    align-items:center;
+
+    margin-bottom:20px;
+
+    color:#ccc;
+
+    font-size:.9rem;
+}
+
+.login-options label{
+    display:flex;
+    gap:8px;
+    align-items:center;
+}
+
+.forgot-link{
+    cursor:pointer;
+    color:#D4AF37;
+}
+
+.google-btn{
+
+    width:100%;
+
+    padding:16px;
+
+    margin-top:15px;
+
+    border:none;
+
+    border-radius:15px;
+
+    background:white;
+
+    color:black;
+
+    font-weight:600;
+
+    transition:.3s;
+}
+
+.google-btn:hover{
+
+    transform:translateY(-3px);
+
+    box-shadow:
+    0 10px 25px rgba(255,255,255,.2);
+}
