@@ -154,7 +154,6 @@
 }
 
 
-
 /* =========================
    MOBILE RESPONSIVE NAVBAR
 ========================= */
@@ -181,49 +180,42 @@
     margin-right: 10px;
   }
 
-  .navbar-toggler {
-    display: none;
-  }
-
+  /* IMPORTANT */
   .navbar-collapse {
-    background: rgba(10, 10, 10, 0.98);
-    border: 1px solid rgba(212, 175, 55, 0.2);
-    border-radius: 15px;
-    padding: 20px;
-    margin-top: 15px;
+    display: flex !important;
+    justify-content: flex-end;
+    align-items: center;
   }
 
   .navbar-nav {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
-    width: 100%;
-    gap: 12px;
+    gap: 5px;
+    margin-bottom: 0;
   }
 
   .nav-item {
-    width: 100%;
-    text-align: center;
+    width: auto;
   }
 
   .nav-link {
-    display: block;
-    width: 100%;
-    padding: 12px;
-    font-size: 1rem !important;
-    border-radius: 10px;
-  }
-
-  .nav-link:hover {
-    background: rgba(212, 175, 55, 0.1);
+    font-size: 0.8rem !important;
+    padding: 4px 6px;
+    margin: 0;
+    white-space: nowrap;
   }
 
   .book-btn {
-    width: 100%;
-    margin-top: 15px;
-    text-align: center;
-    padding: 14px;
-    border-radius: 30px;
+    padding: 8px 14px;
+    font-size: 0.8rem;
+    margin-left: 8px;
+    width: auto;
+    margin-top: 0;
+  }
+
+  .navbar-toggler {
+    display: none;
   }
 }
 
@@ -232,17 +224,27 @@
 @media (max-width: 576px) {
 
   .logo-main {
-    font-size: 1.5rem;
+    font-size: 1.3rem;
   }
 
   .logo-sub {
-    font-size: 8px;
+    font-size: 7px;
     letter-spacing: 1px;
   }
 
+  .nav-link {
+    font-size: 0.7rem !important;
+    padding: 2px 4px;
+  }
+
+  .book-btn {
+    font-size: 0.7rem;
+    padding: 6px 10px;
+  }
+
   .menu-btn {
-    width: 42px;
-    height: 42px;
-    font-size: 18px;
+    width: 40px;
+    height: 40px;
+    font-size: 16px;
   }
 }
