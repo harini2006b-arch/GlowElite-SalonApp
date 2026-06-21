@@ -1,70 +1,196 @@
-# Getting Started with Create React App
+GlowElite – Bangalore Luxury Beauty Intelligence
+Overview
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+GlowElite is an AI-powered luxury beauty salon marketplace designed exclusively for Bangalore, one of India's fastest-growing metropolitan cities and beauty service hubs.
 
-## Available Scripts
+Developed for the SuperXgen AI Startup Buildathon 2026, GlowElite helps users discover premium salons, explore luxury beauty services, receive AI-powered beauty recommendations, and access a modern digital beauty experience through a single platform.
 
-In the project directory, you can run:
+The platform bridges the gap between customers and Bangalore's luxury beauty industry by providing an intelligent, user-friendly, and scalable marketplace solution.
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Live Demo
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+🔗 **Live Website:**
+https://glow-elite-salon-app-tyxj.vercel.app/
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## About the Buildathon
 
-### `npm run build`
+AI is changing the way startups are built — and SuperXgen is creating a platform for the next generation of builders, creators, developers, designers, and entrepreneurs to build real startup ideas using AI.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+GlowElite was developed as a luxury salon marketplace focused on enhancing customer experience through intelligent recommendations, elegant design, and scalable architecture.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Problem Statement
 
-### `npm run eject`
+Finding trustworthy and premium beauty salons often requires users to browse multiple platforms, compare reviews manually, and spend significant time searching for suitable services.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+GlowElite addresses this challenge by providing:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+* A centralized luxury salon marketplace
+* AI-assisted beauty recommendations
+* Personalized service discovery
+* Seamless appointment exploration
+* Modern and responsive user experience
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Key Features
 
-## Learn More
+### Premium Landing Experience
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+* Luxury-themed UI/UX
+* Responsive design for desktop and mobile devices
+* Dynamic hero section
+* Elegant animations and transitions
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Explore Salons
 
-### Code Splitting
+* Browse premium salons across Bangalore
+* Service-based salon discovery
+* Detailed salon information
+* User-friendly navigation
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### AI Beauty Scan
 
-### Analyzing the Bundle Size
+* AI-powered beauty consultation interface
+* Personalized beauty recommendations
+* Haircare and styling suggestions
+* Beauty expert interaction module
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+### Appointment & Booking System
 
-### Making a Progressive Web App
+* Service exploration
+* Appointment management workflow
+* User-friendly booking experience
+* Exclusively for both men and women
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+### User Experience Features
 
-### Advanced Configuration
+* Authentication pages
+* Favorites management
+* Personalized recommendations
+* Modern sidebar navigation
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+---
+
+## Technology Architecture
+
+GlowElite is built using a modern full-stack architecture designed to deliver a premium, scalable, and AI-enhanced beauty marketplace experience.
+
+### Frontend Experience Layer
+
+The user interface is engineered to provide a luxury digital experience with responsive design and seamless navigation.
+
+* **React.js** – Component-based frontend architecture
+* **React Router DOM** – Dynamic client-side routing
+* **Bootstrap 5** – Responsive grid and UI framework
+* **Custom CSS** – Premium luxury-themed styling
+* **React Icons** – Modern iconography and visual enhancements
+
+### Backend Service Layer
+
+A lightweight and scalable backend powers business logic, API communication, and file management.
+
+* **Node.js** – High-performance JavaScript runtime
+* **Express.js** – RESTful API framework
+* **Multer** – Secure image upload handling
+* **Axios** – API communication and external service integration
+* **CORS** – Cross-origin request management
+
+### Artificial Intelligence Layer
+
+The intelligence engine enables personalized beauty consultation and recommendation workflows.
+
+* **OpenRouter API**
+* **GPT-Powered Beauty Consultation**
+* **AI Beauty Scan Recommendation Engine**
+* **Personalized Hairstyle & Treatment Suggestions**
+
+### Deployment Infrastructure
+
+Designed for rapid deployment and scalable hosting.
+
+* **GitHub** – Version control and collaboration
+* **Vercel** – Frontend hosting and continuous deployment
+* **Environment Variable Management** – Secure API key handling
+
+### Development Approach
+
+* Component-Based Architecture
+* Responsive Mobile-First Design
+* AI-Assisted User Experience
+* Scalable Marketplace Model
+* Modern Startup-Oriented Development Workflow
+
+
+### AI Integration
+
+* OpenRouter API
+* GPT-based beauty consultation
 
 ### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+* GitHub
+* Vercel
 
-### `npm run build` fails to minify
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 📂 Project Structure
+
+```text
+GlowElite-SalonApp/
+│
+├── backend/
+│   ├── server.js
+│   ├── uploads/
+│   └── package.json
+│
+├── public/
+│   └── videos/
+│
+├── src/
+│   ├── assets/
+│   ├── components/
+│   ├── data/
+│   ├── pages/
+│   ├── services/
+│   └── styles/
+│
+├── package.json
+└── README.md
+```
+
+---
+
+## Why GlowElite is Unique
+
+* Luxury-first design approach
+* AI-powered beauty assistance
+* City-based marketplace architecture
+* Responsive mobile experience
+* Modern startup-style user interface
+* Scalable architecture for future salon onboarding
+
+---
+
+## Developed For
+
+**SuperXgen AI Startup Buildathon 2026**
+
+A 48-hour startup innovation challenge focused on building real-world AI-powered products using modern development technologies.
+
+Theme: City-Based AI Marketplace Platform
+
+Target City: Bangalore, India
+
+Project: GlowElite – Bangalore Luxury Beauty Intelligence
+
+---
+
+## License
+
+This project was developed for educational, innovation, and hackathon purposes.
