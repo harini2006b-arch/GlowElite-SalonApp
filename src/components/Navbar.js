@@ -6,7 +6,6 @@ import "../styles/Navbar.css";
 function Navbar() {
 
 
-const isLoggedIn =localStorage.getItem("user");
 
 const [isOpen, setIsOpen] = useState(false);
 

@@ -34,21 +34,21 @@ function Footer() {
 
             <div className="footer-social">
 
-  <a href="#">
-    <FaInstagram />
-  </a>
+  <a href="https://instagram.com" target="_blank" rel="noreferrer">
+  Instagram
+</a>
 
-  <a href="#">
-    <FaFacebookF />
-  </a>
+<a href="https://facebook.com" target="_blank" rel="noreferrer">
+  Facebook
+</a>
 
-  <a href="#">
-    <FaWhatsapp />
-  </a>
+<a href="https://wa.me/919999999999" target="_blank" rel="noreferrer">
+  WhatsApp
+</a>
 
-  <a href="#">
-    <FaXTwitter />
-  </a>
+<a href="https://x.com" target="_blank" rel="noreferrer">
+  X
+</a>
 
 </div>
           </div>
