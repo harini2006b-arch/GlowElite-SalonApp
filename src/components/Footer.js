@@ -31,15 +31,15 @@ function Footer() {
             <div className="footer-social">
 
   <a href="https://instagram.com" target="_blank" rel="noreferrer">
-  Instagram
+  I
 </a>
 
 <a href="https://facebook.com" target="_blank" rel="noreferrer">
-  Facebook
+  FB
 </a>
 
 <a href="https://wa.me/919999999999" target="_blank" rel="noreferrer">
-  WhatsApp
+  W
 </a>
 
 <a href="https://x.com" target="_blank" rel="noreferrer">
