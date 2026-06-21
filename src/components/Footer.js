@@ -1,10 +1,6 @@
 import React from "react";
 import "../styles/Footer.css";
 import {
-  FaInstagram,
-  FaFacebookF,
-  FaWhatsapp,
-  FaXTwitter,
   FaEnvelope,
   FaLocationDot,
   FaPhone
